@@ -15,6 +15,13 @@ https://github.com/masaleiro/HacKeyboard
 
 
 
+##TS65 
+https://geekhack.org/index.php?topic=79161.0
+
+![TS65](https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png)
+
+
+
 ##atreus62 
 https://github.com/profet23/atreus62
 
@@ -73,7 +80,21 @@ https://github.com/pcarrier/planck
 
 
 
+##QazPad
+https://geekhack.org/index.php?topic=43183.0
+
+![QazPad](http://i.imgur.com/ofxdrWpl.jpg)
+
+
+
 ##SAMPad numpad
 https://github.com/mohitg11/SAMPad
 
 ![SAMPad](https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png)
+
+
+
+##Staryu (An Open-source 5-key Keypad)
+https://geekhack.org/index.php?topic=72529.0
+
+![Staryu](http://i.imgur.com/A6dkDqE.jpg)
