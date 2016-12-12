@@ -1,5 +1,5 @@
-# List of opensource mechanical keyboard
-
+# List of open source custom mechanical keyboard
+This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
 ##WhiteFox 
 https://github.com/kiibohd/pcb/tree/master/WhiteFox
