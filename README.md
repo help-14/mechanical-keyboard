@@ -73,6 +73,15 @@ https://github.com/kiibohd/pcb/tree/master/IC60
 
 
 
+##iso50 
+https://github.com/trebb/iso50
+
+Handwired: https://deskthority.net/workshop-f7/iso50-a-hand-wired-iso-inspired-50-keyboard-t14538.html
+
+![iso50](https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg)
+
+
+
 ##DrunkPlanck
 https://geekhack.org/index.php?topic=79929.0
 
