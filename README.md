@@ -1,6 +1,8 @@
 # List of open source custom mechanical keyboard
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
+See more: [Case](https://github.com/help-14/mechanical-keyboard/tree/master/Case), [Plate](https://github.com/help-14/mechanical-keyboard/tree/master/Plate)
+
 ##WhiteFox 
 https://github.com/kiibohd/pcb/tree/master/WhiteFox
 
@@ -78,7 +80,7 @@ https://github.com/trebb/iso50
 
 Handwired: https://deskthority.net/workshop-f7/iso50-a-hand-wired-iso-inspired-50-keyboard-t14538.html
 
-![iso50](https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg)
+![iso50](http://i.imgur.com/P9zDLwH.jpg)
 
 
 
