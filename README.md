@@ -112,7 +112,21 @@ https://github.com/mohitg11/SAMPad
 
 
 
+##Split keyboard 
+https://github.com/climbalima/split-pcb-throughole
+
+![Split keyboard](http://i.imgur.com/eupzFgs.jpg?1)
+
+
+
 ##Staryu (An Open-source 5-key Keypad)
 https://geekhack.org/index.php?topic=72529.0
 
 ![Staryu](http://i.imgur.com/A6dkDqE.jpg)
+
+
+
+##RGB TKL by IBNobody
+https://geekhack.org/index.php?topic=86243.0
+
+![RGB TKL by IBNobody](http://i.imgur.com/6c3McKA.png)
