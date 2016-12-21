@@ -17,13 +17,6 @@ https://github.com/masaleiro/HacKeyboard
 
 
 
-##TS65 
-https://geekhack.org/index.php?topic=79161.0
-
-![TS65](https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png)
-
-
-
 ##atreus62 
 https://github.com/profet23/atreus62
 
@@ -137,3 +130,13 @@ https://geekhack.org/index.php?topic=72529.0
 https://geekhack.org/index.php?topic=86243.0
 
 ![RGB TKL by IBNobody](http://i.imgur.com/6c3McKA.png)
+
+
+
+##TS65 
+https://geekhack.org/index.php?topic=79161.0
+
+![TS65](https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png)
+
+
+
