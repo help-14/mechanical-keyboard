@@ -68,6 +68,13 @@ https://github.com/kiibohd/pcb/tree/master/IC60
 
 
 
+##Regack's 59% 
+https://github.com/regack/59pct
+
+![Regack's 59% ](http://i.imgur.com/8t38Vse.jpg)
+
+
+
 ##iso50 
 https://github.com/trebb/iso50
 
@@ -88,6 +95,20 @@ https://geekhack.org/index.php?topic=79929.0
 https://github.com/pcarrier/planck
 
 ![Planck](https://s-media-cache-ak0.pinimg.com/originals/79/4d/06/794d062ee475b5321ac875638a1db37e.jpg)
+
+
+
+##SmallFry 40%
+https://github.com/regack/40Pct
+
+![SmallFry 40%](http://i.imgur.com/DrsPypr.jpg?1)
+
+
+
+##CW40
+https://github.com/ktec-hq/CW40
+
+![CW40](https://s-media-cache-ak0.pinimg.com/736x/d3/58/78/d3587830c7270f89a1f97d38a14dbf8a.jpg)
 
 
 
