@@ -147,6 +147,13 @@ https://geekhack.org/index.php?topic=72529.0
 
 
 
+##Some other collection of mechkey kicad pcb
+https://github.com/mechkeys/mechkeys
+
+![PCB](http://i.imgur.com/DkBIXZj.png)
+
+
+
 # Not tested yet
 
 
