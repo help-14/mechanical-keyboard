@@ -154,6 +154,11 @@ https://github.com/mechkeys/mechkeys
 
 
 
+# Make your own PCB
+https://github.com/ruiqimao/keyboard-pcb-guide
+
+
+
 # Not tested yet
 
 
