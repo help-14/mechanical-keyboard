@@ -147,6 +147,13 @@ https://geekhack.org/index.php?topic=72529.0
 
 
 
+##SIK Keyboard
+https://github.com/mathieubolla/sik_keyboard
+
+![Staryu](https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg)
+
+
+
 ##Some other collection of mechkey kicad pcb
 https://github.com/mechkeys/mechkeys
 
