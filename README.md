@@ -17,6 +17,20 @@ https://github.com/masaleiro/HacKeyboard
 
 
 
+## XMMX TKL
+https://geekhack.org/index.php?topic=93422.0
+
+![XMMX TKL](https://i.imgur.com/hvZpUuv.jpg)
+
+
+
+## Toad 70%
+https://geekhack.org/index.php?topic=91388.0
+
+![Toad 70%](https://i.imgur.com/9oImyX2.jpg)
+
+
+
 ## atreus62 
 https://github.com/profet23/atreus62
 
