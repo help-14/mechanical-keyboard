@@ -176,7 +176,16 @@ https://github.com/mechkeys/mechkeys
 
 
 # Make your own PCB
+
+
+
+## Tutorial
 https://github.com/ruiqimao/keyboard-pcb-guide
+
+
+
+## Kalih hotswap socket
+https://github.com/colemarkham/keyboard_parts.pretty/blob/master/Kailh_MX_Socket.kicad_mod
 
 
 
