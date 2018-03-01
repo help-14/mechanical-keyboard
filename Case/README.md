@@ -1,5 +1,8 @@
 # List of open source case for custom mechanical keyboard
 
+Back to: [Home](../)
+
+See more: [Plate](/Plate), [Controller](/Controller)
 
 ## TKL acrylic case by MOZ
 Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL 
