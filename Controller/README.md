@@ -1,3 +1,9 @@
+# Open source controller for custom mechanical keyboard
+
+Back to: [Home](../)
+
+See more: [Case](/Case), [Plate](/Plate)
+
 ## KeyPlus 
 http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html
 
