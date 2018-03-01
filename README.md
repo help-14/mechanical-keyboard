@@ -1,7 +1,7 @@
 # List of open source custom mechanical keyboard
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
-See more: [Case](https://github.com/help-14/mechanical-keyboard/tree/master/Case), [Plate](https://github.com/help-14/mechanical-keyboard/tree/master/Plate), [Controller](https://github.com/help-14/mechanical-keyboard/tree/master/Controller)
+See more: [Case](/Case), [Plate](/Plate), [Controller](/Controller)
 
 ## WhiteFox 
 https://github.com/kiibohd/pcb/tree/master/WhiteFox
