@@ -1,4 +1,8 @@
-# List of open source plate for custom mechanical keyboard
+# Open source plate for custom mechanical keyboard
+
+Back to: [Home](../)
+
+See more: [Case](/Case), [Controller](/Controller)
 
 
 ## Keyboard layout editor
