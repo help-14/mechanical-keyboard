@@ -4,6 +4,13 @@ Back to: [Home](../)
 
 See more: [Plate](/Plate), [Controller](/Controller)
 
+## TEK-80 TKL 
+Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon
+![TEK-80](http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg)
+
+https://github.com/photekq/TEK-80
+
+
 ## TKL acrylic case by MOZ
 Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL 
 
