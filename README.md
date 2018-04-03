@@ -61,6 +61,13 @@ https://github.com/Ergodox-io/ErgoDox
 
 
 
+## Ergo42
+https://github.com/Biacco42/Ergo42
+
+![Ergo42](https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg)
+
+
+
 ## The Dactyl Keyboard
 https://github.com/adereth/dactyl-keyboard
 
@@ -116,6 +123,13 @@ https://github.com/pcarrier/planck
 https://github.com/regack/40Pct
 
 ![SmallFry 40%](http://i.imgur.com/DrsPypr.jpg?1)
+
+
+
+## Helix
+https://github.com/MakotoKurauchi/helix
+
+![Helix](https://camo.githubusercontent.com/348c95ff3baea20626e282b1a719eea49d0897b9/68747470733a2f2f692e696d6775722e636f6d2f5842416d796e4e2e6a7067)
 
 
 
