@@ -75,6 +75,20 @@ https://github.com/MakotoKurauchi/helix
 
 
 
+## Split keyboard 
+https://github.com/climbalima/split-pcb-throughole
+
+![Split keyboard](http://i.imgur.com/eupzFgs.jpg?1)
+
+
+
+## Ultimate hacking keyboard
+https://github.com/UltimateHackingKeyboard
+
+![Ultimate hacking keyboard](https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg)
+
+
+
 ## The Dactyl Keyboard
 https://github.com/adereth/dactyl-keyboard
 
@@ -151,20 +165,6 @@ https://geekhack.org/index.php?topic=43183.0
 https://github.com/mohitg11/SAMPad
 
 ![SAMPad](https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png)
-
-
-
-## Split keyboard 
-https://github.com/climbalima/split-pcb-throughole
-
-![Split keyboard](http://i.imgur.com/eupzFgs.jpg?1)
-
-
-
-## Ultimate hacking keyboard
-https://github.com/UltimateHackingKeyboard
-
-![Ultimate hacking keyboard](https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg)
 
 
 
