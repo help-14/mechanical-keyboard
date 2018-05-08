@@ -34,7 +34,7 @@ https://geekhack.org/index.php?topic=91388.0
 ## Toad V2
 https://geekhack.org/index.php?topic=95130.0
 
-![Toad V2](https://i.imgur.com/T2lHKLb.jpg)
+![Toad V2](https://i.imgur.com/wRW6HrA.jpg)
 
 
 
