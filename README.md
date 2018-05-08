@@ -31,6 +31,13 @@ https://geekhack.org/index.php?topic=91388.0
 
 
 
+## Toad V2
+https://geekhack.org/index.php?topic=95130.0
+
+![Toad V2](https://i.imgur.com/T2lHKLb.jpg)
+
+
+
 ## atreus62 
 https://github.com/profet23/atreus62
 
@@ -107,6 +114,15 @@ https://github.com/komar007/gh60
 https://github.com/kiibohd/pcb/tree/master/IC60
 
 ![Infinity 60%](https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg)
+
+
+
+## TMK Alps 64
+https://github.com/tmk/alps64
+
+https://geekhack.org/index.php?topic=69740.0
+
+![TMK Alps 64](https://i.imgur.com/3tVMc1K.png)
 
 
 
