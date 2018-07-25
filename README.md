@@ -198,6 +198,13 @@ https://github.com/mathieubolla/sik_keyboard
 
 
 
+## Mitosis
+https://github.com/reversebias/mitosis-hardware
+
+![Mitosis](https://i.imgur.com/JTzXTCD.jpg)
+
+
+
 ## Some other collection of mechkey kicad pcb
 https://github.com/mechkeys/mechkeys
 
