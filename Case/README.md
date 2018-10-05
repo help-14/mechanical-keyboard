@@ -45,3 +45,9 @@ https://github.com/kiibohd/case/tree/master/whitefox-keyboard
 Compatibility: Infinity ergodo
 
 https://github.com/kiibohd/case/tree/master/infinity-ergodox
+
+
+## 68Keys.io Sandwich Case
+Compatibility: [68Keys.io](https://68keys.io), MF68, Tragicforce68
+
+https://68keys.io/guide/case

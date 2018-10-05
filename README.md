@@ -221,6 +221,13 @@ https://github.com/reversebias/mitosis-hardware
 
 
 
+## 68Keys.io
+https://68keys.io
+
+![68Keys.io](https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg)
+
+
+
 ## Some other collection of mechkey kicad pcb
 https://github.com/mechkeys/mechkeys
 
