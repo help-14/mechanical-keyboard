@@ -38,6 +38,13 @@ https://geekhack.org/index.php?topic=95130.0
 
 
 
+## 68Keys.io
+https://68keys.io
+
+![68Keys.io](https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg)
+
+
+
 ## atreus62 
 https://github.com/profet23/atreus62
 
@@ -218,13 +225,6 @@ https://github.com/mathieubolla/sik_keyboard
 https://github.com/reversebias/mitosis-hardware
 
 ![Mitosis](https://i.imgur.com/JTzXTCD_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
-
-
-
-## 68Keys.io
-https://68keys.io
-
-![68Keys.io](https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg)
 
 
 
