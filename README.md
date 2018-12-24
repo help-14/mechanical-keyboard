@@ -24,6 +24,13 @@ https://geekhack.org/index.php?topic=93422.0
 
 
 
+## GH80
+https://geekhack.org/index.php?topic=92962.0
+
+![GH80](https://i.imgur.com/wgNGEJL.jpg)
+
+
+
 ## Toad 70%
 https://geekhack.org/index.php?topic=91388.0
 
@@ -250,6 +257,13 @@ https://github.com/colemarkham/keyboard_parts.pretty/blob/master/Kailh_MX_Socket
 
 
 # Not tested yet
+
+
+
+## BLU60 - Bluetooth 60%
+https://geekhack.org/index.php?topic=97225.0
+
+![BLU60](https://geekhack.org/index.php?action=dlattach;topic=97225.0;attach=202917;image)
 
 
 
