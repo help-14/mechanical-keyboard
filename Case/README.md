@@ -19,6 +19,7 @@ https://github.com/mohitg11/TKL-Case
 
 ## Classic 87 by Help-14
 Compatibility: Unknown 
+![Classic 87](https://i.imgur.com/5cEY1cy.png)
 
 https://github.com/help-14/classic87
 
