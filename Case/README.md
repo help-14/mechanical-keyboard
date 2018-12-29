@@ -17,6 +17,12 @@ Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL
 https://github.com/mohitg11/TKL-Case
 
 
+## Classic 87 by Help-14
+Compatibility: Unknown 
+
+https://github.com/help-14/classic87
+
+
 ## Aluminium TKL Case (TEK-80) by Photekq
 Compatibility: Standard
 
