@@ -1,5 +1,6 @@
 
 
+
 # Mechanical Keyboard and where to find them
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
@@ -10,14 +11,12 @@ This list will help you quickly find your favorite layout and you can start DIY 
 - [Ortholinear Keyboards](#ortholinearkeyboards)
 - [Numpad/Macropad](#numpadmacropad)
 - [Others Keyboards](#otherskeyboards)
-<br />
 - [Controller](#numpadmacropad)
 - [Case](#case)
 - [Plate](#plate)
-<br />
-- [Firmware](#Firmware)
-- [Tutorials](#Tutorials)
-- [Tools](#Tools)
+- [Firmware](#firmware)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
 
 ## Normal Keyboards
 | Image | Name | Size | Description |
