@@ -5,15 +5,19 @@
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
 ## Quick links
-
+Keyboard:
 - [Normal Keyboards](#normalkeyboards)
 - [Ergonomics Keyboards](#ergonomicskeyboards)
 - [Ortholinear Keyboards](#ortholinearkeyboards)
 - [Numpad/Macropad](#numpadmacropad)
 - [Others Keyboards](#otherskeyboards)
+
+Components:
 - [Controller](#numpadmacropad)
 - [Case](#case)
 - [Plate](#plate)
+
+Links:
 - [Firmware](#firmware)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
