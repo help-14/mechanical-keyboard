@@ -22,7 +22,7 @@ This list will help you quickly find your favorite layout and you can start DIY 
 ## Normal Keyboards
 | Image | Name | Size | Description |
 | --- | --- | --- | --- |
-| <img width=500 src="https://camo.githubusercontent.com/11f0656afe923d0f9bb33508fb52ca94a0fd2951/68747470733a2f2f692e696d6775722e636f6d2f565747487a66552e6a7067"> | [SB-147](https://github.com/sealclubber/SB-147) | 136%, 147 key | A 147-key 3d printed keyboard, along with custom profile keycaps. |
+| <img minwidth=500 src="https://camo.githubusercontent.com/11f0656afe923d0f9bb33508fb52ca94a0fd2951/68747470733a2f2f692e696d6775722e636f6d2f565747487a66552e6a7067"> | [SB-147](https://github.com/sealclubber/SB-147) | 136%, 147 key | A 147-key 3d printed keyboard, along with custom profile keycaps. |
 | <img width=500 src="https://i.imgur.com/wgNGEJL.jpg"> | [GH80-3000](https://geekhack.org/index.php?topic=92962.0) | 100%, Full size | GH80-3000 is intended to be a replacement PCB of the Cherry Corp. |
 | <img width=500 src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.MEDIUM.jpg"> | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | 87%, TKL | HacKeyboard is a mechanical keyboard built from scratch using SMK Alps Mount switches from an old Monterey K108 keyboard and Alps compatible keycaps from an old NGS keyboard. It has several features that are not usually found in commercial keyboards: internal keylogger, macro recording, internal USB Hub 2.0, internal flash drive, customizable LED colors, customizable LED effects; |
 | <img width=500 src="https://i.imgur.com/hvZpUuv.jpg"> | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | 87%, TKL | The XMMX is a Tenkeyless PCB designed to work with MX compatible switches as well as ALPS SKCL/SKCM and their clones. This PCB is inteded to fit the Cooler Master Quickfire Rapid (not the Rapid-i) and the Filco Majestouch 2 TKL cases, although it could fit some other commercial TKL cases. |
@@ -50,7 +50,7 @@ This list will help you quickly find your favorite layout and you can start DIY 
 ## Ergonomics Keyboards
 | Image | Name | Description |
 | --- | --- | --- |
-| <img width=500 src="https://github.com/technomancy/atreus/raw/master/atreus.jpg"> | [Atreus](https://github.com/technomancy/atreus) | The Atreus is a mechanical keyboard designed primarily to match the shape of human hands and to be as portable as possible. The case measures 26x12cm and lacks even a number row, relying heavily upon the `fn` key. |
+| <img minwidth=500 src="https://github.com/technomancy/atreus/raw/master/atreus.jpg"> | [Atreus](https://github.com/technomancy/atreus) | The Atreus is a mechanical keyboard designed primarily to match the shape of human hands and to be as portable as possible. The case measures 26x12cm and lacks even a number row, relying heavily upon the `fn` key. |
 | <img width=500 src="https://github.com/profet23/atreus62/raw/master/images/nantucket-atreus62.jpg"> | [Atreus62](https://github.com/profet23/atreus62) | This version utilizes a Pro Micro for its controller and has a 62 key layout.|
 | <img width=500 src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg?raw=true"> | [Atreis](https://github.com/dekonnection/atreis) | Unsplitting the Iris keyboard. |
 | <img width=500 src="https://www.ergodox.io/img/ErgoDox-original-min.png"> | [ErgoDox](https://github.com/Ergodox-io/ErgoDox) | Ergodox is a keyboard project designed with ergonomics in mind, it uses 76-80 Cherry MX style mechanical switches laid out in a columnar stagger (rather than the more conventional row stagger) layout with components that can easily be sourced. The keyboard is completely programmable and can be flashed with several different firmware options. |
@@ -68,12 +68,12 @@ This list will help you quickly find your favorite layout and you can start DIY 
 | <img width=500 src="https://user-images.githubusercontent.com/736191/47172661-0da73200-d347-11e8-95a5-4e978fbb70bb.JPG"> | [Corne](https://github.com/foostan/crkbd) | Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys, rgb, based on [Helix](https://github.com/MakotoKurauchi/helix). |
 | <img width=500 src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067"> | MiniDox | [Pcb](https://github.com/That-Canadian/MiniDox_pcb)<br />[Case](https://github.com/dotdash32/cases/tree/master/Minidox) |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R2.0.jpg"> | [Orbit](https://github.com/ai03-2725/Orbit) | A split ergonomic keyboard pcb with usb type c. |
-| <img width=500 src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. |
+| <img minwidth=500 src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. |
 
 ## Ortholinear Keyboards
 | Image | Name | Description |
 | --- | --- | --- |
-| <img width=500 src="https://mpilquist.github.io/planck/complete.jpg"> | [Planck](https://github.com/pcarrier/planck) | A thumb-chorded 47-key keyboard |
+| <img minwidth=500 src="https://mpilquist.github.io/planck/complete.jpg"> | [Planck](https://github.com/pcarrier/planck) | A thumb-chorded 47-key keyboard |
 | <img width=500 src="http://i.imgur.com/DjOPf2t.gif"> | [Drunk Planck](https://geekhack.org/index.php?topic=79929.0) | The PCB fits in the [Planck formed bottom](http://ortholinearkeyboards.com/planck/planck-formed-bottom), and in theory it should fit into the [Planck milled bottom](http://ortholinearkeyboards.com/planck/planck-milled-bottom) |
 | <img width=500 src="https://camo.githubusercontent.com/b9d0784f085f1d01a3c4f0b2a77f0592214e5682/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d49415655536e546d745a412f584172624148464b3577492f41414141414141414265452f464b546c3037325231436b495a775872344156435a2d5f71473775526a48773977434c63424741732f733634302f494d475f32303138313132385f3139343033362e6a7067"> | [Alpsie](https://github.com/larrbo/odd-rocket/tree/master/alpsie) | An alps-only blocked 4x12 (44 key) ortho with piezo support. |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Contra/master/Images/back-2.0.jpg"> | [Contra](https://github.com/ai03-2725/Contra) | Extremely low cost ortholinear keyboard. |
@@ -91,7 +91,7 @@ This list will help you quickly find your favorite layout and you can start DIY 
 ## Numpad/Macropad
 | Image | Name | Description |
 | --- | --- | --- |
-| <img width=500 src="https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png"> | [SAMPad](https://github.com/mohitg11/SAMPad) | This is a custom numeric pad that is designed to be usable on the right side of the keyboard or on the left (With a mirrored layout if required). There is a gap in the top row and the second row of 1.25U. The top row can be broken off by simply scoring the two brifges and snapping. The bottom 5 rows can then be used in conjunction with a 60%/65% keyboard. |
+| <img minwidth=500 src="https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png"> | [SAMPad](https://github.com/mohitg11/SAMPad) | This is a custom numeric pad that is designed to be usable on the right side of the keyboard or on the left (With a mirrored layout if required). There is a gap in the top row and the second row of 1.25U. The top row can be broken off by simply scoring the two brifges and snapping. The bottom 5 rows can then be used in conjunction with a 60%/65% keyboard. |
 | <img width=500 src="http://i.imgur.com/ofxdrWpl.jpg"> | [QazPad](https://geekhack.org/index.php?topic=43183.0) | It's a separate 10 key with some extra keys to allow it to stand alone for number crunching or gaming. |
 | <img width=500 src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg"> | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | Macropad that's look like game boy cart, can be 3d printed. |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0"> | [Hayabusa](https://github.com/ai03-2725/Hayabusa) | 5x5 key macropad with RGB backlighting. |
@@ -103,24 +103,24 @@ This list will help you quickly find your favorite layout and you can start DIY 
 ## Others Keyboards
 | Image | Name | Description |
 | --- | --- | --- |
-| <img width=500 src="https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard |
+| <img minwidth=500 src="https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard |
 | <img width=500 src="http://i.imgur.com/DkBIXZj.png"> | [Some other collection of mechkey kicad pcb](https://github.com/mechkeys/mechkeys) |  |
 | <img width=500 src="https://cdn.shopify.com/s/files/1/1851/5125/products/image_43032c96-0be4-47cf-bc59-542c79531563_530x@2x.jpg?v=1537988739"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | Make handwiring keyboard easier. |
 
 ## Controller
 | Image | Name  | Description |
 | --- | --- | --- |
-| <img width=500 src="https://camo.githubusercontent.com/8bc16dbe2029349e0b1a2e75058f50909a836655/687474703a2f2f626c6f672e736565746869732e6c696e6b2f617373657374732f696d67732f66697273742d70726f746f74797065732f6b6579706c75735f6d696e695f626574612e6a7067"> | [KeyPlus]([http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html](http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html)) | ATXmega controller that have awesome support for wireless, can use with Logitech receiver, with usb type c. Support keyplus, QMK firmware. |
+| <img minwidth=500 src="https://camo.githubusercontent.com/8bc16dbe2029349e0b1a2e75058f50909a836655/687474703a2f2f626c6f672e736565746869732e6c696e6b2f617373657374732f696d67732f66697273742d70726f746f74797065732f6b6579706c75735f6d696e695f626574612e6a7067"> | [KeyPlus]([http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html](http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html)) | ATXmega controller that have awesome support for wireless, can use with Logitech receiver, with usb type c. Support keyplus, QMK firmware. |
 | <img width=500 src="https://i.imgur.com/WIE2VP1.png"> | [Goldfish](https://geekhack.org/index.php?topic=93571.0) | Arduino pro micro clone with usb type c. Support TMK, QMK. |
 | <img width=500 src="https://github.com/sekigon-gonnoc/BLE-Micro-Pro/raw/master/pin%20assign.jpg"> | [BLE Micro Pro]() | It is a breakout board of BL654 (nrf 52840 module) which is conscious of compatibility with Pro Micro, and it can correspond to both USB / Bluetooth Low Energy. Support BlueMicro firmware. |
 | <img width=500 src="https://cdn-shop.adafruit.com/1200x900/3379-03.jpg"> | [Adafruit Feather 32u4 Bluefruit LE](https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB) | Support QMK with bluetooth out of the box. |
 | <img width=500 src="https://camo.githubusercontent.com/84460d6d7c0380bf1a8be8fad704bab3caa6aa20/687474703a2f2f692e696d6775722e636f6d2f327930364149616c2e6a7067"> | [USB to USB keyboard converter](https://geekhack.org/index.php?topic=69169.0) | With this you can change keymap and use functions TMK firmware offers on your USB keyboard. |
-| <img width=500 src="http://i.imgur.com/MqRRvkN.jpg"> | [Teensy Soarer](https://geekhack.org/index.php?topic=58941.0) | Convert old keyboard socket to usb. |
+| <img width="500" src="http://i.imgur.com/MqRRvkN.jpg"> | [Teensy Soarer](https://geekhack.org/index.php?topic=58941.0) | Convert old keyboard socket to usb. |
 
 ## Case
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
-| <img width=500 src="http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg"> | [TEK-80 TKL]() | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
+| <img minwidth=500 src="http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg"> | [TEK-80 TKL]() | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
 | <img width=500 src="http://i.imgur.com/9HcfEzVh.jpg"> | [TKL acrylic case](https://github.com/mohitg11/TKL-Case) | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL |
 | <img width=500 src="https://i.imgur.com/5cEY1cy.png"> | [Classic 87](https://github.com/help-14/classic87) | 87%, TKL | Compatibility: Unknown |
 | <img width=500 src="https://cdn.thingiverse.com/renders/eb/c9/e7/30/fd/2c3cf9c08aa768cf6c86cf91efa8e06c_preview_featured.JPG"> | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | 60% | 3D printed 60% case inspired by GameBoy. |
@@ -133,7 +133,7 @@ This list will help you quickly find your favorite layout and you can start DIY 
 ## Plate
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
-| <img width=500 src="https://raw.githubusercontent.com/tmk/alps64/Plate_AEK_RevA/alps64_aek_plate.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | 60% | Compatibility: Infinity, HHKB, Tai-Hao, ... |
+| <img minwidth=500 src="https://raw.githubusercontent.com/tmk/alps64/Plate_AEK_RevA/alps64_aek_plate.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | 60% | Compatibility: Infinity, HHKB, Tai-Hao, ... |
 
 ## Firmware
 -  [TMK](https://github.com/tmk/tmk_keyboard) - A very popular firmware that support Atmega32u4 powered keyboard.
