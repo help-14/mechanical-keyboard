@@ -46,9 +46,9 @@ Links:
 | <img width=500 src="https://camo.githubusercontent.com/147a5e49191341f45f4b3eee138906b4c2404373/68747470733a2f2f63646e2e7468696e676976657273652e636f6d2f72656e646572732f32612f61622f33642f32612f37322f32303430346333333864646464653138336534316266313132633862336262625f707265766965775f66656174757265642e6a7067"> | [Akihabara](https://www.thingiverse.com/thing:3105838) | 40% | It's a 40%, with an easy to use layout that works well for typists, but perhaps not designers or programmers. Can be 3d printed. |
 | <img width=500 src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg?raw=true"> | [Tanuki](https://github.com/SethSenpai/Tanuki) |  | Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. |
 | <img width=500 src="https://camo.githubusercontent.com/5d70849f1a29a1be2a72173515f11576bac1946c/68747470733a2f2f692e696d6775722e636f6d2f616c4e576e685a2e6a7067"> | [Alpha](https://github.com/PyrooL/Alpha) | <30% | A 28-key semi-ortholinear mechanical keyboard. |
-| <img width=500 src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) | 87%, TKL | [THIS HAVE NOT BEEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
-| <img width=500 src="https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) | 68% | [THIS HAVE NOT BEEEN TESTED YET]<br />The Split 65% Keyboard. |
-| <img width=500 src="https://geekhack.org/index.php?action=dlattach;topic=97225.0;attach=202917;image"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) | 60% | [THIS HAVE NOT BEEEN TESTED YET]<br />Bluetooth 60% keyboard. |
+| <img width=500 src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) | 87%, TKL | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
+| <img width=500 src="https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) | 68% | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. |
+| <img width=500 src="https://geekhack.org/index.php?action=dlattach;topic=97225.0;attach=202917;image"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) | 60% | [THIS HAVE NOT BEEN TESTED YET]<br />Bluetooth 60% keyboard. |
 
 ## Ergonomics Keyboards
 | Image | Name | Description |
