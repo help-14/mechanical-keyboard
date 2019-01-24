@@ -35,6 +35,7 @@ Links:
 | <img width=500 src="https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg"> | [68Keys.io](https://68keys.io) | 68% | |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png"> | [Voyager65](https://github.com/ai03-2725/Voyager65) | 65% | Cutting-edge 65% keyboard PCB for Keyplus firmware. |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0"> | [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | 60% | A simple MX/Alps 60% board that just works. |
+| <img width=500 src="https://raw.githubusercontent.com/ai03-2725/VoyagerII/master/Renders/Back.png"> | [Voyager II](https://github.com/ai03-2725/VoyagerII-Keyplus) | 60% | A simple MX/Alps 60% board using Keyplus firmware. |
 | <img width=500 src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width=500 src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
 | <img width=500 src="https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg"> | [Infinity 60%](https://github.com/kiibohd/pcb/tree/master/IC60) | 60% | |
