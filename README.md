@@ -42,6 +42,7 @@ Links:
 | <img width=500 src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
 | <img width=500 src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width=500 src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
+| <img width=500 src="https://kb.ai03.me/img/projects/ut47.2.png"> | [UT47.2](https://github.com/ai03-2725/UT47.2) | 47.2% | |
 | <img width=500 src="http://i.imgur.com/DrsPypr.jpg?1"> | [Regack's 40%](https://github.com/regack/40Pct) | 40% | |
 | <img width=500 src="https://s-media-cache-ak0.pinimg.com/736x/d3/58/78/d3587830c7270f89a1f97d38a14dbf8a.jpg"> | [CW40](https://github.com/ktec-hq/CW40) | 40% | RGB underglow 40% keyboard. |
 | <img width=500 src="https://camo.githubusercontent.com/147a5e49191341f45f4b3eee138906b4c2404373/68747470733a2f2f63646e2e7468696e676976657273652e636f6d2f72656e646572732f32612f61622f33642f32612f37322f32303430346333333864646464653138336534316266313132633862336262625f707265766965775f66656174757265642e6a7067"> | [Akihabara](https://www.thingiverse.com/thing:3105838) | 40% | It's a 40%, with an easy to use layout that works well for typists, but perhaps not designers or programmers. Can be 3d printed. |
@@ -160,6 +161,7 @@ Links:
 ## Tools
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. 
 - [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
+- [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
 - [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts.
 - [Kalerator](https://kalerator.clueboard.co/) - pcb generator for keyboard-layout-editor generated layouts.
 - [Keyboard Firmware Builder](https://kbfirmware.com/) - online QMK Firmware Builder. (2+ years behind QMK firmware master).
