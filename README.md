@@ -27,6 +27,7 @@ Links:
 | --- | --- | --- | --- |
 | <img minwidth=500 src="https://camo.githubusercontent.com/11f0656afe923d0f9bb33508fb52ca94a0fd2951/68747470733a2f2f692e696d6775722e636f6d2f565747487a66552e6a7067"> | [SB-147](https://github.com/sealclubber/SB-147) | 136%, 147 key | A 147-key 3d printed keyboard, along with custom profile keycaps. |
 | <img width=500 src="https://i.imgur.com/wgNGEJL.jpg"> | [GH80-3000](https://geekhack.org/index.php?topic=92962.0) | 100%, Full size | GH80-3000 is intended to be a replacement PCB of the Cherry Corp. |
+| <img width=500 src="https://i.imgur.com/ZbDiqKP.jpg"> | [Voyager97](https://github.com/ai03-2725/Voyager97) | 97%, Full size | A compact fullsize keyboard. |
 | <img width=500 src="https://cdn.instructables.com/F9P/KCPI/IGV4DBXA/F9PKCPIIGV4DBXA.MEDIUM.jpg"> | [HacKeyboard](https://github.com/masaleiro/HacKeyboard) | 87%, TKL | HacKeyboard is a mechanical keyboard built from scratch using SMK Alps Mount switches from an old Monterey K108 keyboard and Alps compatible keycaps from an old NGS keyboard. It has several features that are not usually found in commercial keyboards: internal keylogger, macro recording, internal USB Hub 2.0, internal flash drive, customizable LED colors, customizable LED effects; |
 | <img width=500 src="https://i.imgur.com/hvZpUuv.jpg"> | [XMMX TKL](https://geekhack.org/index.php?topic=93422.0) | 87%, TKL | The XMMX is a Tenkeyless PCB designed to work with MX compatible switches as well as ALPS SKCL/SKCM and their clones. This PCB is inteded to fit the Cooler Master Quickfire Rapid (not the Rapid-i) and the Filco Majestouch 2 TKL cases, although it could fit some other commercial TKL cases. |
 | <img width=500 src="https://i.imgur.com/9oImyX2.jpg"> | [Toad](https://geekhack.org/index.php?topic=91388.0) | 70% | 70% with space between F-row and number row. |
@@ -34,7 +35,7 @@ Links:
 | <img width=500 src="http://cdn.matt3o.com/uploads/2016/01/md-whitefox.jpg"> | [WhiteFox](https://github.com/kiibohd/pcb/tree/master/WhiteFox) | 68% | |
 | <img width=500 src="https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg"> | [68Keys.io](https://68keys.io) | 68% | |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png"> | [Voyager65](https://github.com/ai03-2725/Voyager65) | 65% | Cutting-edge 65% keyboard PCB for Keyplus firmware. |
-| <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0"> | [Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) | 60% | A simple MX/Alps 60% board that just works. |
+| <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Voyager/Rev2/Renders/Front.png?rev=1.0"> | [Original Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) <br /><br />[Updated Voyager60](https://github.com/ai03-2725/Voyager60) | 60% | A simple MX/Alps 60% board that just works. |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/VoyagerII/master/Renders/Back.png"> | [Voyager II](https://github.com/ai03-2725/VoyagerII-Keyplus) | 60% | A simple MX/Alps 60% board using Keyplus firmware. |
 | <img width=500 src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width=500 src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
@@ -97,6 +98,7 @@ Links:
 | Image | Name | Description |
 | --- | --- | --- |
 | <img minwidth=500 src="https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png"> | [SAMPad](https://github.com/mohitg11/SAMPad) | This is a custom numeric pad that is designed to be usable on the right side of the keyboard or on the left (With a mirrored layout if required). There is a gap in the top row and the second row of 1.25U. The top row can be broken off by simply scoring the two brifges and snapping. The bottom 5 rows can then be used in conjunction with a 60%/65% keyboard. |
+| <img minwidth=500 src="https://raw.githubusercontent.com/ai03-2725/Soyuz/master/Renders/Front.png"> | [Soyuz](https://github.com/ai03-2725/Soyuz) | A single-PCB numpad kit. |
 | <img width=500 src="http://i.imgur.com/ofxdrWpl.jpg"> | [QazPad](https://geekhack.org/index.php?topic=43183.0) | It's a separate 10 key with some extra keys to allow it to stand alone for number crunching or gaming. |
 | <img width=500 src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg"> | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | Macropad that's look like game boy cart, can be 3d printed.<br />[Fusion 360 file](https://a360.co/2NWB7Tb) |
 | <img width=500 src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0"> | [Hayabusa](https://github.com/ai03-2725/Hayabusa) | 5x5 key macropad with RGB backlighting. |
@@ -152,7 +154,8 @@ Links:
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 
 ## Tutorials
--   [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
+-   [PCB Designer Guide by ai03](https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
+-   [Keyboard PCB Guide by ruiqimao](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 -   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 -   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
 -   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
