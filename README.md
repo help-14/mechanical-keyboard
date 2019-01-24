@@ -23,6 +23,7 @@ Links:
 - [Tools](#tools)
 
 ## Normal Keyboards
+
 | Image | Name | Size | Description |
 | --- | --- | --- | --- |
 | <img minwidth=500 src="https://camo.githubusercontent.com/11f0656afe923d0f9bb33508fb52ca94a0fd2951/68747470733a2f2f692e696d6775722e636f6d2f565747487a66552e6a7067"> | [SB-147](https://github.com/sealclubber/SB-147) | 136%, 147 key | A 147-key 3d printed keyboard, along with custom profile keycaps. |
@@ -95,6 +96,7 @@ Links:
 | <img width=500 src="https://camo.githubusercontent.com/6bf0257847f1e1972cfd6b9f289a6e8180163ff8/68747470733a2f2f692e696d6775722e636f6d2f7a337630416b732e6a7067"> | Zen Keyboard| [PCB](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) <br/> [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) |
 
 ## Numpad/Macropad
+
 | Image | Name | Description |
 | --- | --- | --- |
 | <img minwidth=500 src="https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png"> | [SAMPad](https://github.com/mohitg11/SAMPad) | This is a custom numeric pad that is designed to be usable on the right side of the keyboard or on the left (With a mirrored layout if required). There is a gap in the top row and the second row of 1.25U. The top row can be broken off by simply scoring the two brifges and snapping. The bottom 5 rows can then be used in conjunction with a 60%/65% keyboard. |
@@ -109,6 +111,7 @@ Links:
 | <img width=500 src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s1600/CherryMXkeypad1.jpg"> | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | 1x4 keypad with led. |
 
 ## Others Keyboards
+
 | Image | Name | Description |
 | --- | --- | --- |
 | <img minwidth=500 src="https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard |
@@ -116,6 +119,7 @@ Links:
 | <img width=500 src="https://cdn.shopify.com/s/files/1/1851/5125/products/image_43032c96-0be4-47cf-bc59-542c79531563_530x@2x.jpg?v=1537988739"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | Make handwiring keyboard easier. |
 
 ## Controller
+
 | Image | Name  | Description |
 | --- | --- | --- |
 | <img minwidth=500 src="https://camo.githubusercontent.com/8bc16dbe2029349e0b1a2e75058f50909a836655/687474703a2f2f626c6f672e736565746869732e6c696e6b2f617373657374732f696d67732f66697273742d70726f746f74797065732f6b6579706c75735f6d696e695f626574612e6a7067"> | [KeyPlus]([http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html](http://blog.seethis.link/2017/09/17/keyplus-mini-controller-beta.html)) | ATXmega controller that have awesome support for wireless, can use with Logitech receiver, with usb type c. Support keyplus firmware. |
@@ -127,6 +131,7 @@ Links:
 | <img width="500" src="http://i.imgur.com/MqRRvkN.jpg"> | [Teensy Soarer](https://geekhack.org/index.php?topic=58941.0) | Convert old keyboard socket to usb. |
 
 ## Case
+
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
 | <img minwidth=500 src="http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg"> | [TEK-80 TKL]() | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
@@ -140,11 +145,13 @@ Links:
 | <img width=500 src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | | 3d printed case for  Redox keyboard. |
 
 ## Plate
+
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
 | <img minwidth=500 src="https://raw.githubusercontent.com/tmk/alps64/Plate_AEK_RevA/alps64_aek_plate.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | 60% | Compatibility: Infinity, HHKB, Tai-Hao, ... |
 
 ## Firmware
+
 -  [TMK](https://github.com/tmk/tmk_keyboard) - A very popular firmware that support Atmega32u4 powered keyboard.
 -  [QMK](https://github.com/qmk/qmk_firmware) - Base on TMK but support a lot of controller, support RGB, easy to use.
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
@@ -154,6 +161,7 @@ Links:
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 
 ## Tutorials
+
 -   [PCB Designer Guide by ai03](https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
 -   [Keyboard PCB Guide by ruiqimao](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
 -   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
@@ -162,6 +170,7 @@ Links:
 - [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
 
 ## Tools
+
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. 
 - [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
@@ -180,5 +189,7 @@ Links:
 -  [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
 
 ---
+
 ### Contributing
+
 Contributions welcome!
