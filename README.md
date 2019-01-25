@@ -1,6 +1,7 @@
 
 
 
+
 # Mechanical Keyboard and where to find them
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
@@ -46,6 +47,7 @@ Links:
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
 | <img width="500" src="https://kb.ai03.me/img/projects/ut47.2.png"> | [UT47.2](https://github.com/ai03-2725/UT47.2) | 47.2% | |
 | <img width="500" src="http://i.imgur.com/DrsPypr.jpg?1"> | [Regack's 40%](https://github.com/regack/40Pct) | 40% | |
+| <img width="500" src="https://i.imgur.com/T4hEyhw.jpg"> | [Equinox](https://github.com/ai03-2725/Equinox) | 40% | WKL compact 40% keyboard PCB. |
 | <img width="500" src="https://s-media-cache-ak0.pinimg.com/736x/d3/58/78/d3587830c7270f89a1f97d38a14dbf8a.jpg"> | [CW40](https://github.com/ktec-hq/CW40) | 40% | RGB underglow 40% keyboard. |
 | <img width="500" src="https://camo.githubusercontent.com/147a5e49191341f45f4b3eee138906b4c2404373/68747470733a2f2f63646e2e7468696e676976657273652e636f6d2f72656e646572732f32612f61622f33642f32612f37322f32303430346333333864646464653138336534316266313132633862336262625f707265766965775f66656174757265642e6a7067"> | [Akihabara](https://www.thingiverse.com/thing:3105838) | 40% | It's a 40%, with an easy to use layout that works well for typists, but perhaps not designers or programmers. Can be 3d printed. |
 | <img width="500" src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg?raw=true"> | [Tanuki](https://github.com/SethSenpai/Tanuki) |  | Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. |
@@ -109,7 +111,9 @@ Links:
 | <img width="500" src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. |
 | <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | A 3x3 custom mechanical macro pad. |
 | <img width="500" src="https://camo.githubusercontent.com/7d8d8918ec29d5ad7c40a7ad969280658e4a6820/68747470733a2f2f692e696d6775722e636f6d2f4e3478357758702e6a7067"> | [LFK17](https://github.com/lfkeyboards/lfk17) | 5x4 numpad. |
-| <img width="500" src="http://i.imgur.com/A6dkDqE.jpg"> | [Staryu](https://geekhack.org/index.php?topic=72529.0) | An Open-source 5-key Keypad |
+| <img width="500" src="http://i.imgur.com/A6dkDqE.jpg"> | [Staryu](https://geekhack.org/index.php?topic=72529.0) | An Open-source 5-key Keypad. |
+| <img width="500" src="https://i.imgur.com/nBMrvWe.jpg"> | [Sputnik](https://github.com/ai03-2725/Sputnik) | 3x3 Macropad PCB. |
+| <img width="500" src="https://i.imgur.com/7CoNmZ1.jpg"> | [Ion](https://github.com/ai03-2725/Ion) | 4-Key Osu Keypad. |
 | <img width="500" src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s1600/CherryMXkeypad1.jpg"> | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | 1x4 keypad with led. |
 
 ## Others Keyboards
