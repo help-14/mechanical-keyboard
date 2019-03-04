@@ -7,14 +7,14 @@ This list will help you quickly find your favorite layout and you can start DIY 
 
 ## Quick links
 Keyboard:
-- [Normal Keyboards](#normalkeyboards)
-- [Ergonomics Keyboards](#ergonomicskeyboards)
-- [Ortholinear Keyboards](#ortholinearkeyboards)
+- [Normal Keyboards](#normal-keyboards)
+- [Ergonomics Keyboards](#ergonomics-keyboards)
+- [Ortholinear Keyboards](#ortholinear-keyboards)
 - [Numpad/Macropad](#numpadmacropad)
-- [Others Keyboards](#otherskeyboards)
+- [Others Keyboards](#others-keyboards)
 
 Components:
-- [Controller](#numpadmacropad)
+- [Controller](#controller)
 - [Case](#case)
 - [Plate](#plate)
 
