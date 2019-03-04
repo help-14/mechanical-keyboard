@@ -125,6 +125,7 @@ Links:
 | <img minwidth="500" src="https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard |
 | <img width="500" src="http://i.imgur.com/DkBIXZj.png"> | [Some other collection of mechkey kicad pcb](https://github.com/mechkeys/mechkeys) |  |
 | <img width="500" src="https://cdn.shopify.com/s/files/1/1851/5125/products/image_43032c96-0be4-47cf-bc59-542c79531563_530x@2x.jpg?v=1537988739"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | Make handwiring keyboard easier. |
+| <img width="500" src="https://i.imgur.com/VlqjNpN.jpg"> | [Usb Adapter](https://github.com/help-14/mechkey-usb-adapter/) | For customize keyboard connector and pcb. |
 
 ## Controller
 
@@ -201,3 +202,6 @@ Links:
 ### Contributing
 
 Contributions welcome!
+
+
+[🍺 Buy me some beer 🍺](https://paypal.me/Keysekai) 
