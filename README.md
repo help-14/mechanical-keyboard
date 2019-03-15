@@ -17,7 +17,7 @@ Components:
 - [Controller](#controller)
 - [Case](#case)
 - [Plate](#plate)
-- [Keycap](#keycap)
+- [Keycaps](#keycaps)
 
 Links:
 - [Firmware](#firmware)
