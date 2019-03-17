@@ -144,7 +144,7 @@ Links:
 
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
-| <img minwidth="500" src="http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg"> | [TEK-80 TKL]() | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
+| <img minwidth="500" src="http://farm8.staticflickr.com/7449/12351376313_5ce7a72f0e_b.jpg"> | [TEK-80 TKL](https://geekhack.org/index.php?topic=41202.0) | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
 | <img width="500" src="http://i.imgur.com/9HcfEzVh.jpg"> | [TKL acrylic case](https://github.com/mohitg11/TKL-Case) | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL |
 | <img width="500" src="https://i.imgur.com/5cEY1cy.png"> | [Classic 87](https://github.com/help-14/classic87) | 87%, TKL | Compatibility: Unknown |
 | <img width="500" src="https://cdn.thingiverse.com/renders/eb/c9/e7/30/fd/2c3cf9c08aa768cf6c86cf91efa8e06c_preview_featured.JPG"> | [Gameboy Keyboard case](https://www.thingiverse.com/thing:3007828) | 40% | 3D printed 40% case inspired by GameBoy. |
