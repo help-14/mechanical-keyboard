@@ -64,6 +64,7 @@ Links:
 
 | Image | Name | Description |
 | --- | --- | --- |
+| <img minwidth="500" src="https://camo.githubusercontent.com/52126fe22185eb48a922b8f7a2a2726cb2f19226/68747470733a2f2f692e696d6775722e636f6d2f6b6e74353138452e6a7067"> | Arisu | The layout is inspired by Lyn's EM7 and TGR Alice with some modification.<br />[Case](https://github.com/FateNozomi/arisu-case) <br />[PCB](https://github.com/FateNozomi/arisu-pcb)  |
 | <img minwidth="500" src="https://github.com/technomancy/atreus/raw/master/atreus.jpg"> | [Atreus](https://github.com/technomancy/atreus) | The Atreus is a mechanical keyboard designed primarily to match the shape of human hands and to be as portable as possible. The case measures 26x12cm and lacks even a number row, relying heavily upon the `fn` key. |
 | <img width="500" src="https://github.com/profet23/atreus62/raw/master/images/nantucket-atreus62.jpg"> | [Atreus62](https://github.com/profet23/atreus62) | This version utilizes a Pro Micro for its controller and has a 62 key layout.|
 | <img width="500" src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg?raw=true"> | [Atreis](https://github.com/dekonnection/atreis) | Unsplitting the Iris keyboard. |
