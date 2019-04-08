@@ -24,7 +24,7 @@ Links:
 - [Tutorials](#tutorials)
 - [Tools](#tools)
 
-## Normal Keyboards
+## Normal Keyboardsupdated
 
 | Image | Name | Size | Description |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Links:
 | <img width="500" src="http://cdn.matt3o.com/uploads/2016/01/md-whitefox.jpg"> | [WhiteFox](https://github.com/kiibohd/pcb/tree/master/WhiteFox) | 68% | |
 | <img width="500" src="https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg"> | [68Keys.io](https://68keys.io) | 68% | |
 | <img width="500" src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png"> | [Voyager65](https://github.com/ai03-2725/Voyager65) | 65% | Cutting-edge 65% keyboard PCB for Keyplus firmware. |
-| <img width="500" src="https://i.imgur.com/undefined.png"> | [Original Voyager](https://github.com/ai03-2725/Voyager/blob/Rev2/README.md) <br /><br />[Updated Voyager60](https://github.com/ai03-2725/Voyager60) | 60% | A simple MX/Alps 60% board that just works. |
+| <img width="500" src="https://i.imgur.com/qqVo5vY.png"> | [Voyager60](https://github.com/ai03-2725/Voyager60) | 60% | A simple MX/Alps 60% board that just works. |
 | <img width="500" src="https://raw.githubusercontent.com/ai03-2725/VoyagerII/master/Renders/Back.png"> | [Voyager II](https://github.com/ai03-2725/VoyagerII-Keyplus) | 60% | A simple MX/Alps 60% board using Keyplus firmware. |
 | <img width="500" src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width="500" src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
@@ -48,7 +48,8 @@ Links:
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
 | <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/20181219-PC190003.jpg"> | [Treadstone48](https://github.com/marksard/Keyboards) | 48% | |
-| <img width="500" src="https://kb.ai03.me/img/projects/ut47.2.png"> | [UT47.2](https://github.com/ai03-2725/UT47.2) | 47.2% | |
+| <img width="500" src="https://i.imgur.com/dbD5LVY.png"> | [UT47.2](https://github.com/ai03-2725/UT47.2) | 47.2% | |
+| <img width="500" src="https://i.imgur.com/6tPV53j.png"> | [CPM43](https://github.com/Gtrx0/cpm43) | 43% | |
 | <img width="500" src="http://i.imgur.com/DrsPypr.jpg?1"> | [Regack's 40%](https://github.com/regack/40Pct) | 40% | |
 | <img width="500" src="https://i.imgur.com/T4hEyhw.jpg"> | [Equinox](https://github.com/ai03-2725/Equinox) | 40% | WKL compact 40% keyboard PCB. |
 | <img width="500" src="https://s-media-cache-ak0.pinimg.com/736x/d3/58/78/d3587830c7270f89a1f97d38a14dbf8a.jpg"> | [CW40](https://github.com/ktec-hq/CW40) | 40% | RGB underglow 40% keyboard. |
@@ -70,6 +71,7 @@ Links:
 | <img minwidth="500" src="https://github.com/technomancy/atreus/raw/master/atreus.jpg"> | [Atreus](https://github.com/technomancy/atreus) | The Atreus is a mechanical keyboard designed primarily to match the shape of human hands and to be as portable as possible. The case measures 26x12cm and lacks even a number row, relying heavily upon the `fn` key. |
 | <img width="500" src="https://github.com/profet23/atreus62/raw/master/images/nantucket-atreus62.jpg"> | [Atreus62](https://github.com/profet23/atreus62) | This version utilizes a Pro Micro for its controller and has a 62 key layout.|
 | <img width="500" src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg?raw=true"> | [Atreis](https://github.com/dekonnection/atreis) | Unsplitting the Iris keyboard. |
+| <img width="500" src="https://i.imgur.com/zWPIVCU.jpg"> | [Fortitude 60](https://github.com/Pekaso/fortitude60) | A 60% (12x5) split keyboard with staggerd column layout. |
 | <img width="500" src="https://www.ergodox.io/img/ErgoDox-original-min.png"> | [ErgoDox](https://github.com/Ergodox-io/ErgoDox) | Ergodox is a keyboard project designed with ergonomics in mind, it uses 76-80 Cherry MX style mechanical switches laid out in a columnar stagger (rather than the more conventional row stagger) layout with components that can easily be sourced. The keyboard is completely programmable and can be flashed with several different firmware options. |
 | <img width="500" src="https://input.club/wp-content/uploads/2015/05/MD-ErgoDox.jpg"> | Infinity ErgoDox | Left handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Left <br />Right handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Right |
 | <img width="500" src="https://github.com/omkbd/picture/raw/master/Ergodash.jpg"> | [ErgoDash](https://github.com/omkbd/ErgoDash) | |
@@ -78,7 +80,8 @@ Links:
 | <img width="500" src="https://github.com/mattdibi/redox-keyboard/raw/master/img/redox-1.jpg"> | [Redox](https://github.com/mattdibi/redox-keyboard) | The Redox project is an open-source, ergonomic split mechanical keyboard. This repository will be used to share information about the project and instruction on how to use and assembly the Redox keyboard. |
 | <img width="500" src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png"> | [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) | The Dactyl is a parameterized, split-hand, concave, columnar, ergonomic keyboard. |
 | <img width="500" src="https://camo.githubusercontent.com/a8dc88b0a973913a28a2373a7f3a9a3031af2672/687474703a2f2f692e696d6775722e636f6d2f4c646a456872522e6a7067"> | [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard) | The main change is that the thumb cluster was adapted from the [ManuForm keyboard](https://github.com/jeffgran/ManuForm) ([geekhack](https://geekhack.org/index.php?topic=46015.0)). The walls were changed to just drop to the floor. |
-| <img width="500" src="https://i.imgur.com/JTzXTCD_d.jpg?maxwidth=640&shape=thumb&fidelity=medium"> | [Mitosis](https://github.com/reversebias/mitosis-hardware) | Wireless Split Ergonomic Keyboard |
+| <img width="500" src="https://i.imgur.com/JTzXTCD_d.jpg?maxwidth=640&shape=thumb&fidelity=medium"> | [Mitosis](https://github.com/reversebias/mitosis-hardware) | Wireless Split Ergonomic Keyboard. |
+| <img width="500" src="https://raw.githubusercontent.com/pseudoku/Apoptosis/master/Apoptosis_PCB.jpg"> | [Apoptosis](https://github.com/pseudoku/Apoptosis) |  |
 | <img width="500" src="https://preview.redd.it/yt2j71jr8lw01.jpg?width=987&auto=webp&s=22031585f188f15c8c77fe1354ad9e910a45846b"> | [Interphase](https://github.com/Durburz/interphase) | A mitosis clone with more keys!!|
 | <img width="500" src="https://camo.githubusercontent.com/345c4da193109633a755173ea24223bc2c9f6474/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d626d47656f45364c4473592f57756e744a5f7650614a492f41414141414141414250732f68537a6c797a51423978304443775a657170416d385f71546a4553597950444941434c63424741732f733430302f79696a6f7a3579776b7a6730312e6a7067"> | [5plit](https://github.com/larrbo/odd-rocket/tree/master/5plit%20-kailh) |  |
 | <img width="500" src="https://camo.githubusercontent.com/fda1418ee328c7ce1f226c2a9c397b33abecc417/68747470733a2f2f696d6775722e636f6d2f41413679634d512e6a7067"><br /><img width="500" src="https://camo.githubusercontent.com/ff0234cc0836a46f683512c19dd3c498b0d531ea/68747470733a2f2f696d6775722e636f6d2f464f476c4f344d2e6a7067"> | [Chimera]() | Split wireless QMK powered keyboards |
@@ -120,6 +123,9 @@ Links:
 | <img width="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. |
 | <img width="500" src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. |
 | <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | A 3x3 custom mechanical macro pad. |
+| <img width="500" src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png"> | [Lysergic25](https://github.com/Gtrx0/lysergic25) |  |
+| <img width="500" src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png"> | [Zesty25](https://github.com/Gtrx0/zesty25) | |
+| <img width="500" src="https://i.imgur.com/rpwE0qZ.png"> | [Medusa](https://github.com/Gtrx0/Medusa) | |
 | <img width="500" src="https://camo.githubusercontent.com/7d8d8918ec29d5ad7c40a7ad969280658e4a6820/68747470733a2f2f692e696d6775722e636f6d2f4e3478357758702e6a7067"> | [LFK17](https://github.com/lfkeyboards/lfk17) | 5x4 numpad. |
 | <img width="500" src="http://i.imgur.com/A6dkDqE.jpg"> | [Staryu](https://geekhack.org/index.php?topic=72529.0) | An Open-source 5-key Keypad. |
 | <img width="500" src="https://i.imgur.com/nBMrvWe.jpg"> | [Sputnik](https://github.com/ai03-2725/Sputnik) | 3x3 Macropad PCB. |
