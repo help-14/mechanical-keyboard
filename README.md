@@ -140,7 +140,7 @@ Links:
 | <img minwidth="500" src="https://github.com/mathieubolla/sik_keyboard/raw/master/doc/images/final-1.jpg"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard |
 | <img width="500" src="http://i.imgur.com/DkBIXZj.png"> | [Some other collection of mechkey kicad pcb](https://github.com/mechkeys/mechkeys) |  |
 | <img width="500" src="https://cdn.shopify.com/s/files/1/1851/5125/products/image_43032c96-0be4-47cf-bc59-542c79531563_530x@2x.jpg?v=1537988739"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs) | Make handwiring keyboard easier. |
-| <img width="500" src="https://github.com/swanmatch/MxLEDBitPCB/blob/master/pcbs.jpg"> | [Cherry-Mx-LED-Bitboard](https://github.com/swanmatch/MxLEDBitPCB) |  |
+| <img width="500" src="https://i.imgur.com/QzjOlWT.jpg"> | [Cherry-Mx-LED-Bitboard](https://github.com/swanmatch/MxLEDBitPCB) |  |
 | <img width="500" src="https://i.imgur.com/VlqjNpN.jpg"> | [Usb Adapter](https://github.com/help-14/mechkey-usb-adapter/) | For customize keyboard connector and pcb. |
 
 ## Controller
@@ -186,6 +186,7 @@ Links:
 
 ## Firmware
 
+-  [EasyAVR](https://github.com/dhowland/EasyAVR) - EasyAVR is a keyboard firmware and keymapper GUI for custom keyboards based on USB AVRs. It is powerful but also really easy to use.
 -  [TMK](https://github.com/tmk/tmk_keyboard) - A very popular firmware that support Atmega32u4 powered keyboard.
 -  [QMK](https://github.com/qmk/qmk_firmware) - Base on TMK but support a lot of controller, support RGB, easy to use.
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
