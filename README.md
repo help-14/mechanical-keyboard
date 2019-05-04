@@ -45,6 +45,7 @@ Links:
 | <img width="500" src="https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg"> | [Infinity 60%](https://github.com/kiibohd/pcb/tree/master/IC60) | 60% | |
 | <img width="500" src="https://i.imgur.com/DjRwgT5.png"> | [Plainy 60-c](https://github.com/Maartenwut/plain60-c) | 60% | This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. |
 | <img width="500" src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
+| <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
 | <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/20181219-PC190003.jpg"> | [Treadstone48](https://github.com/marksard/Keyboards) | 48% | |
@@ -59,6 +60,7 @@ Links:
 | <img width="500" src="https://github.com/Gondolindrim/SharkPCB/raw/master/renders/frontRender.png"> | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | 40% |  |
 | <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/IMG_8444.jpg"> | [Stonehenge30](https://github.com/marksard/Keyboards) | 30% | |
 | <img width="500" src="https://camo.githubusercontent.com/5d70849f1a29a1be2a72173515f11576bac1946c/68747470733a2f2f692e696d6775722e636f6d2f616c4e576e685a2e6a7067"> | [Alpha](https://github.com/PyrooL/Alpha) | <30% | A 28-key semi-ortholinear mechanical keyboard. |
+| <img width="500" src="https://i.imgur.com/q1GP4AV.jpg"> | [ANHEDRAL](https://github.com/eswai/anhedral) |  | Symmetrical SemiErgo layout keyboard. |
 | <img width="500" src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) | 87%, TKL | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
 | <img width="500" src="https://raw.githubusercontent.com/mohitg11/TS65AVR/master/PCB.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) | 68% | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. |
 | <img width="500" src="https://geekhack.org/index.php?action=dlattach;topic=97225.0;attach=202917;image"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) | 60% | [THIS HAVE NOT BEEN TESTED YET]<br />Bluetooth 60% keyboard. |
@@ -72,6 +74,7 @@ Links:
 | <img width="500" src="https://github.com/profet23/atreus62/raw/master/images/nantucket-atreus62.jpg"> | [Atreus62](https://github.com/profet23/atreus62) | This version utilizes a Pro Micro for its controller and has a 62 key layout.|
 | <img width="500" src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg?raw=true"> | [Atreis](https://github.com/dekonnection/atreis) | Unsplitting the Iris keyboard. |
 | <img width="500" src="https://i.imgur.com/zWPIVCU.jpg"> | [Fortitude 60](https://github.com/Pekaso/fortitude60) | A 60% (12x5) split keyboard with staggerd column layout. |
+| <img width="500" src="https://i.imgur.com/bAT0tLu.jpg"> | [Manta 60](https://github.com/KamoNanban/Manta60) | 60% split keyboard. |
 | <img width="500" src="https://www.ergodox.io/img/ErgoDox-original-min.png"> | [ErgoDox](https://github.com/Ergodox-io/ErgoDox) | Ergodox is a keyboard project designed with ergonomics in mind, it uses 76-80 Cherry MX style mechanical switches laid out in a columnar stagger (rather than the more conventional row stagger) layout with components that can easily be sourced. The keyboard is completely programmable and can be flashed with several different firmware options. |
 | <img width="500" src="https://input.club/wp-content/uploads/2015/05/MD-ErgoDox.jpg"> | Infinity ErgoDox | Left handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Left <br />Right handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Right |
 | <img width="500" src="https://github.com/omkbd/picture/raw/master/Ergodash.jpg"> | [ErgoDash](https://github.com/omkbd/ErgoDash) | |
@@ -183,6 +186,7 @@ Links:
 - [Cherry profile 2](https://www.dropbox.com/sh/85bju0itsc0uq8d/AACL3VH4aLr_csUXS6e8WVnla) - Another 3D model of Cherry profile keycaps.
 - [DSA profile](https://www.thingiverse.com/thing:2172302) - 3D model of DSA keycaps.
 - [XDA profile](https://github.com/spooknik/XDA-Keycaps) - 3D model of XDA keycaps.
+- [Kailh low profile](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) - 3D model of kailh low profile keycaps.
 
 ## Firmware
 
@@ -207,6 +211,8 @@ Links:
 ## Tools
 
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. 
+- [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html): Render 3D keyboard from KLE json. 
+- [Keycap Renders](https://keycaprenders.com/): Render 3D keycap set. 
 - [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
 - [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts.
