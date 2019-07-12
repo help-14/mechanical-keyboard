@@ -24,7 +24,7 @@ Links:
 - [Tutorials](#tutorials)
 - [Tools](#tools)
 
-## Normal Keyboardsupdated
+## Normal Keyboards
 
 | Image | Name | Size | Description |
 | --- | --- | --- | --- |
@@ -37,9 +37,7 @@ Links:
 | <img width="500" src="https://i.imgur.com/wRW6HrA.jpg"> | [Toad V2](https://geekhack.org/index.php?topic=95130.0) | 70% | Toad with support for MX and Alps switch. |
 | <img width="500" src="http://cdn.matt3o.com/uploads/2016/01/md-whitefox.jpg"> | [WhiteFox](https://github.com/kiibohd/pcb/tree/master/WhiteFox) | 68% | |
 | <img width="500" src="https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg"> | [68Keys.io](https://68keys.io) | 68% | |
-| <img width="500" src="https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png"> | [Voyager65](https://github.com/ai03-2725/Voyager65) | 65% | Cutting-edge 65% keyboard PCB for Keyplus firmware. |
 | <img width="500" src="https://i.imgur.com/qqVo5vY.png"> | [Voyager60](https://github.com/ai03-2725/Voyager60) | 60% | A simple MX/Alps 60% board that just works. |
-| <img width="500" src="https://raw.githubusercontent.com/ai03-2725/VoyagerII/master/Renders/Back.png"> | [Voyager II](https://github.com/ai03-2725/VoyagerII-Keyplus) | 60% | A simple MX/Alps 60% board using Keyplus firmware. |
 | <img width="500" src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width="500" src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
 | <img width="500" src="https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg"> | [Infinity 60%](https://github.com/kiibohd/pcb/tree/master/IC60) | 60% | |
@@ -57,7 +55,7 @@ Links:
 | <img width="500" src="https://camo.githubusercontent.com/147a5e49191341f45f4b3eee138906b4c2404373/68747470733a2f2f63646e2e7468696e676976657273652e636f6d2f72656e646572732f32612f61622f33642f32612f37322f32303430346333333864646464653138336534316266313132633862336262625f707265766965775f66656174757265642e6a7067"> | [Akihabara](https://www.thingiverse.com/thing:3105838) | 40% | It's a 40%, with an easy to use layout that works well for typists, but perhaps not designers or programmers. Can be 3d printed. |
 | <img width="500" src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg?raw=true"> | [Tanuki](https://github.com/SethSenpai/Tanuki) | 40% | Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. |
 | <img width="500" src="https://i.imgur.com/b00SUBq.jpg"> | [Tg4x](https://github.com/MythosMann/tg4x) | 40% |  |
-| <img width="500" src="https://github.com/Gondolindrim/SharkPCB/raw/master/renders/frontRender.png"> | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | 40% |  |
+| <img width="500" src="https://i.imgur.com/dALjclJ.jpg"> | [SharkPCB](https://github.com/Gondolindrim/SharkPCB) | 40% |  |
 | <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/IMG_8444.jpg"> | [Stonehenge30](https://github.com/marksard/Keyboards) | 30% | |
 | <img width="500" src="https://camo.githubusercontent.com/5d70849f1a29a1be2a72173515f11576bac1946c/68747470733a2f2f692e696d6775722e636f6d2f616c4e576e685a2e6a7067"> | [Alpha](https://github.com/PyrooL/Alpha) | <30% | A 28-key semi-ortholinear mechanical keyboard. |
 | <img width="500" src="https://i.imgur.com/q1GP4AV.jpg"> | [ANHEDRAL](https://github.com/eswai/anhedral) |  | Symmetrical SemiErgo layout keyboard. |
@@ -124,7 +122,6 @@ Links:
 | <img minwidth="500" src="https://raw.githubusercontent.com/ai03-2725/Soyuz/master/Renders/Front.png"> | [Soyuz](https://github.com/ai03-2725/Soyuz) | A single-PCB numpad kit. |
 | <img width="500" src="http://i.imgur.com/ofxdrWpl.jpg"> | [QazPad](https://geekhack.org/index.php?topic=43183.0) | It's a separate 10 key with some extra keys to allow it to stand alone for number crunching or gaming. |
 | <img width="500" src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg"> | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | Macropad that's look like game boy cart, can be 3d printed.<br />[Fusion 360 file](https://a360.co/2NWB7Tb) |
-| <img width="500" src="https://raw.githubusercontent.com/ai03-2725/Hayabusa/master/Renders/Front.png?rev=1.0"> | [Hayabusa](https://github.com/ai03-2725/Hayabusa) | 5x5 key macropad with RGB backlighting. |
 | <img width="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. |
 | <img width="500" src="https://github.com/dekuNukem/kbord/raw/master/pics/title.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. |
 | <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | A 3x3 custom mechanical macro pad. |
@@ -135,6 +132,7 @@ Links:
 | <img width="500" src="http://i.imgur.com/A6dkDqE.jpg"> | [Staryu](https://geekhack.org/index.php?topic=72529.0) | An Open-source 5-key Keypad. |
 | <img width="500" src="https://i.imgur.com/nBMrvWe.jpg"> | [Sputnik](https://github.com/ai03-2725/Sputnik) | 3x3 Macropad PCB. |
 | <img width="500" src="https://i.imgur.com/7CoNmZ1.jpg"> | [Ion](https://github.com/ai03-2725/Ion) | 4-Key Osu Keypad. |
+| <img width="500" src="https://i.imgur.com/b1eTA4a.png"> | [Voyager4](https://github.com/ai03-2725/Voyager4) | A tiny, fully featured 4-key macropad PCB. |
 | <img width="500" src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s1600/CherryMXkeypad1.jpg"> | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | 1x4 keypad with led. |
 
 ## Others Keyboards
