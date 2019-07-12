@@ -74,6 +74,7 @@ Links:
 | <img width="500" src="https://github.com/profet23/atreus62/raw/master/images/nantucket-atreus62.jpg"> | [Atreus62](https://github.com/profet23/atreus62) | This version utilizes a Pro Micro for its controller and has a 62 key layout.|
 | <img width="500" src="https://github.com/dekonnection/atreis/raw/master/pictures/GPI0El4.jpg?raw=true"> | [Atreis](https://github.com/dekonnection/atreis) | Unsplitting the Iris keyboard. |
 | <img width="500" src="https://i.imgur.com/zWPIVCU.jpg"> | [Fortitude 60](https://github.com/Pekaso/fortitude60) | A 60% (12x5) split keyboard with staggerd column layout. |
+| <img width="500" src="https://github.com/macroxue/keyboard-diy/blob/master/images/Darknight.jpg"> | [Darknight](https://github.com/macroxue/keyboard-diy) | DIY 60% Split Keyboard. |
 | <img width="500" src="https://i.imgur.com/bAT0tLu.jpg"> | [Manta 60](https://github.com/KamoNanban/Manta60) | 60% split keyboard. |
 | <img width="500" src="https://www.ergodox.io/img/ErgoDox-original-min.png"> | [ErgoDox](https://github.com/Ergodox-io/ErgoDox) | Ergodox is a keyboard project designed with ergonomics in mind, it uses 76-80 Cherry MX style mechanical switches laid out in a columnar stagger (rather than the more conventional row stagger) layout with components that can easily be sourced. The keyboard is completely programmable and can be flashed with several different firmware options. |
 | <img width="500" src="https://input.club/wp-content/uploads/2015/05/MD-ErgoDox.jpg"> | Infinity ErgoDox | Left handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Left <br />Right handed: https://github.com/kiibohd/pcb/tree/master/ICED%20-%20Right |
@@ -235,6 +236,3 @@ Links:
 ### Contributing
 
 Contributions welcome!
-
-
-[🍺 Buy me some beer 🍺](https://paypal.me/Keysekai) 
