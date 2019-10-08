@@ -95,7 +95,7 @@ Links:
 
 | Image | Name | Description |
 | --- | --- | --- |
-| <img minwidth="500" src="https://mpilquist.github.io/planck/complete.jpg"> | [Planck](https://github.com/pcarrier/planck) | A thumb-chorded 47-key keyboard |
+| <img minwidth="500" src="https://mpilquist.github.io/planck/complete.jpg"> | [Planck](https://github.com/olkb/olkb_parts/tree/master/planck) | A thumb-chorded 47-key keyboard |
 | <img minwidth="500" src="https://pbs.twimg.com/media/DtQmnRPU8AExeXN.jpg"> | [Planck Through Hole Kit](https://github.com/olkb/planck_thk) | https://github.com/olkb/planck_thk |
 | <img minwidth="500" src="https://i.imgur.com/aGXNE0Z.jpg"> | [Plaid](https://github.com/hsgw/plaid) | The 4x12 ortholinear keyboard kit made by through hole components only. |
 | <img width="500" src="https://i.imgur.com/igwTcIF.jpg"> | [Drunk Planck](https://geekhack.org/index.php?topic=79929.0) | The PCB fits in the [Planck formed bottom](http://ortholinearkeyboards.com/planck/planck-formed-bottom), and in theory it should fit into the [Planck milled bottom](http://ortholinearkeyboards.com/planck/planck-milled-bottom) |
