@@ -173,6 +173,7 @@ Links:
 | <img width="500" src="https://cdn.shopify.com/s/files/1/0834/6257/products/DSC_0616_91c0f81d-7627-4643-b76a-e3501aa274d6_large.jpg?v=1517790600"> | [60% acrylic case by MOZ](https://github.com/mohitg11/TKL-Case) | 60% | Compatibility: GH60, Poker, Poker 2, Pure, Pure Pro  |
 | <img width="500" src="https://massdrop-s3.imgix.net/product-images/MD-7993_20150514232254_830b04189c24c2bc.jpg?auto=format&fm=jpg&fit=crop&w=955&bg=f0f0f0&dpr=1"> | [Infinity 60% case](https://github.com/kiibohd/case/tree/master/infinity-keyboard) | 60% | Compatibility: Standard 60% case, hhkb |
 | <img width="500" src="http://cdn.shopify.com/s/files/1/1994/3097/products/whitefox-kit-case-min_aaaca502-16f4-45ce-bc36-a38cf74673e5_1024x1024.png?v=1537311112"> | [Whitefox case]() | 68% | Compatibility: Whitefox |
+| <img width="500" src="https://cdn.shopify.com/s/files/1/0012/3374/8043/products/AlicePCB_800x.jpg?v=1566022489"> | [Yutsky's TGR Alice](https://store.projectkeyboard.com/collections/pcbs/products/preorder-tgr-alice-pcb) | 68% | Compatibility: TGR Alice and compatible pcb |
 | <img width="500" src="http://www.joshuaflanagan.com/blog/assets/infinity_ergodox_assembled.jpg"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  | Compatibility: Infinity ergodo |
 | <img width="500" src="https://github.com/Lenbok/scad-redox-case/raw/master/images/redox-exploded.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | | 3d printed case for  Redox keyboard. |
 
