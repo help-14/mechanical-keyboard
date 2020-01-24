@@ -46,6 +46,7 @@ Links:
 | <img width="500" src="https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg"> | [Infinity 60%](https://github.com/kiibohd/pcb/tree/master/IC60) | 60% | |
 | <img width="500" src="https://i.imgur.com/DjRwgT5.png"> | [Plainy 60-c](https://github.com/Maartenwut/plain60-c) | 60% | This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. |
 | <img width="500" src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
+| <img width="500" src="http://i.imgur.com/0BE8UIz.jpg"> | [TCKB](https://deskthority.net/viewtopic.php?t=14952) | 60% | 60% keyboard using STM32. |
 | <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
