@@ -55,6 +55,7 @@ Links:
 | <img width="500" src="https://i.imgur.com/6tPV53j.png"> | [CPM43](https://github.com/Gtrx0/cpm43) | 43% | |
 | <img width="500" src="http://i.imgur.com/DrsPypr.jpg?1"> | [Regack's 40%](https://github.com/regack/40Pct) | 40% | |
 | <img width="500" src="https://i.imgur.com/T4hEyhw.jpg"> | [Equinox](https://github.com/ai03-2725/Equinox) | 40% | WKL compact 40% keyboard PCB. |
+| <img width="500" src="https://i.ytimg.com/vi/g6bKhcrlnn8/maxresdefault.jpg"> | [SteamVan](https://github.com/jmdaly/steamvan) | 40% | MiniVan-compatible PCB based on an STM32MCU. |
 | <img width="500" src="https://s-media-cache-ak0.pinimg.com/736x/d3/58/78/d3587830c7270f89a1f97d38a14dbf8a.jpg"> | [CW40](https://github.com/ktec-hq/CW40) | 40% | RGB underglow 40% keyboard. |
 | <img width="500" src="https://camo.githubusercontent.com/147a5e49191341f45f4b3eee138906b4c2404373/68747470733a2f2f63646e2e7468696e676976657273652e636f6d2f72656e646572732f32612f61622f33642f32612f37322f32303430346333333864646464653138336534316266313132633862336262625f707265766965775f66656174757265642e6a7067"> | [Akihabara](https://www.thingiverse.com/thing:3105838) | 40% | It's a 40%, with an easy to use layout that works well for typists, but perhaps not designers or programmers. Can be 3d printed. |
 | <img width="500" src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg?raw=true"> | [Tanuki](https://github.com/SethSenpai/Tanuki) | 40% | Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. |
@@ -210,6 +211,7 @@ Links:
 -  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
+-  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
 
 ## Tutorials
 
@@ -218,7 +220,7 @@ Links:
 -   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 -   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
 -   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
-- [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
+-   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
 
 ## Tools
 
