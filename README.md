@@ -99,6 +99,7 @@ Links:
 | <img width="500" src="https://user-images.githubusercontent.com/736191/47172661-0da73200-d347-11e8-95a5-4e978fbb70bb.JPG"> | [Corne](https://github.com/foostan/crkbd) | Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys, rgb, based on [Helix](https://github.com/MakotoKurauchi/helix). |
 | <img width="500" src="https://camo.githubusercontent.com/b345769866acbd0ad76c22250941aa4ab23667e5/68747470733a2f2f692e696d6775722e636f6d2f686d6e6b56646e2e6a7067"> | MiniDox | [Pcb](https://github.com/That-Canadian/MiniDox_pcb)<br />[Case](https://github.com/dotdash32/cases/tree/master/Minidox) |
 | <img width="500" src="https://raw.githubusercontent.com/ai03-2725/Orbit/master/Images/PCB-R2.0.jpg"> | [Orbit](https://github.com/ai03-2725/Orbit) | A split ergonomic keyboard pcb with usb type c. |
+| <img width="500" src="https://github.com/illness072/elephant42/raw/master/what-is-this.jpg"> | [elephant42](https://github.com/illness072/elephant42) |  |
 | <img minwidth="500" src="https://camo.githubusercontent.com/9f0a06184893760528f1c5db991c5463d403b528/68747470733a2f2f692e696d6775722e636f6d2f395168506c56442e6a7067"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. |
 
 ## Ortholinear Keyboards
