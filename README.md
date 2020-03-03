@@ -49,6 +49,7 @@ Links:
 | <img width="500" src="https://i.imgur.com/DjRwgT5.png"> | [Plainy 60-c](https://github.com/Maartenwut/plain60-c) | 60% | This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. |
 | <img width="500" src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
 | <img width="500" src="http://i.imgur.com/0BE8UIz.jpg"> | [TCKB](https://deskthority.net/viewtopic.php?t=14952) | 60% | 60% keyboard using STM32. |
+| <img width="500" src="https://i.imgur.com/rA1l01D.jpg"> | [Lot60-BLE](https://github.com/Lotlab/Lot60-BLE-Keyboard) | 60% | 60% BLE keyboard using nRF51822 as the main controller, CH554 as the USB chip. |
 | <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
@@ -213,9 +214,12 @@ Links:
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
 -  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
 -  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
+-  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 -  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
+-  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
+-  [Lotlab/nrf51822-keyboard](https://github.com/Lotlab/nrf51822-keyboard) - This is a firmware based on nrf51822 Bluetooth keyboard, which uses nRF SDK 10.0 as the underlying hardware driver, and uses TMK keyboard library as the upper part of the keyboard function.
 
 ## Tutorials
 
