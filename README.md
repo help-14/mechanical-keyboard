@@ -150,6 +150,7 @@ Links:
 | <img width="500" src="https://github.com/cookpad/cookpad-pad/raw/master/docs/images/cookpad-pad.jpg"> | [Cookpad](https://github.com/cookpad/cookpad-pad) | A six keys macro pad made by Cookpad. |
 | <img width="500" src="https://2.bp.blogspot.com/-skoPYGOXZ_U/W-8XhE2scNI/AAAAAAACUUU/-IDKkpftbg8Pwr8NhnD3yIjPfWm3LiVdwCLcBGAs/s1600/a.jpg"> | [I-S-hOle](https://www.40percent.club/2018/11/i-s-hole.html?m=1) | A small board with space for 4 ISO enter keys with PCB mount Cherry stabilizers. Powered by a Pro Micro. |
 | <img width="500" src="https://1.bp.blogspot.com/-Mur6fIsKDwU/V1NmGd7T4QI/AAAAAAAAAyU/Fh40F8Zl41YVosa03zkJl2WPSQ7sGS_AwCLcB/s1600/CherryMXkeypad1.jpg"> | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | 1x4 keypad with led. |
+| <img width="500" src="https://camo.githubusercontent.com/04ba54fa2fb06710bc98e8ee23baa0c8ee9962ca/68747470733a2f2f692e696d6775722e636f6d2f5564393675586e2e706e67"> | [2% Milk keyboard](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) |  |
 
 ## Others Keyboards
 
