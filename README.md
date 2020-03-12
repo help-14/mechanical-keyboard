@@ -232,6 +232,8 @@ Links:
 -   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
 -   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
 -   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
+-   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
+-   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
 
 ## Tools
 
