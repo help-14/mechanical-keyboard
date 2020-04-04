@@ -199,6 +199,7 @@ Links:
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
 | <img minwidth="500" src="https://raw.githubusercontent.com/tmk/alps64/Plate_AEK_RevA/alps64_aek_plate.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | 60% | Compatibility: Infinity, HHKB, Tai-Hao, ... |
+| <img minwidth="500" src="https://github.com/help-14/keyboard-plate/raw/master/basicIO-60/hotswap-screenshot.png"> | [Plates Collection](https://github.com/help-14/keyboard-plate) | ~ | Collection of various plates ... |
 
 ## Keycaps
 - [SA profile 1](https://github.com/getclacking/SA-profile-keys-3D-models) - 3D model of SA profile keycaps.
