@@ -177,6 +177,7 @@ Links:
 | <img width="500" src="https://cdn-learn.adafruit.com/guides/cropped_images/000/001/567/medium640/nRF52Feather1000px.png?1535580827"> | [Adafruit Feather Bluefruit nRF52](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB) | Support BlueMicro firmware. |
 | <img width="500" src="https://camo.githubusercontent.com/84460d6d7c0380bf1a8be8fad704bab3caa6aa20/687474703a2f2f692e696d6775722e636f6d2f327930364149616c2e6a7067"> | [USB to USB keyboard converter](https://geekhack.org/index.php?topic=69169.0) | With this you can change keymap and use functions TMK firmware offers on your USB keyboard. |
 | <img width="500" src="http://i.imgur.com/MqRRvkN.jpg"> | [Teensy Soarer](https://geekhack.org/index.php?topic=58941.0) | Convert old keyboard socket to usb. |
+| <img width="500" src="https://deskthority.net/download/file.php?id=8445&sid=222237426f5067c404eb234b2523c74d"> | [Beamspring USB controller](https://deskthority.net/viewtopic.php?f=7&t=6044&start=) |  |
 
 ## Case
 
