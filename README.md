@@ -226,6 +226,11 @@ Links:
 -  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
 -  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
 -  [Lotlab/nrf51822-keyboard](https://github.com/Lotlab/nrf51822-keyboard) - This is a firmware based on nrf51822 Bluetooth keyboard, which uses nRF SDK 10.0 as the underlying hardware driver, and uses TMK keyboard library as the upper part of the keyboard function.
+-  [Keyberon](https://github.com/TeXitoi/keyberon) - Keyboard firmware written in Rust. 
+-  [Key To Key](https://github.com/TyberiusPrime/KeyToKey) - Rust libary for building keyboard firmwares.
+-  [Polymer firmware](https://gitlab.com/polymer-kb/firmware/polymer) - Polymer keyboard firmware.
+-  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
+-  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
 
 ## Tutorials
 
