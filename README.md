@@ -220,7 +220,6 @@ Links:
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
 -  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
 -  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
--  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 -  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
