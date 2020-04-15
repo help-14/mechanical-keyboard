@@ -250,6 +250,7 @@ Links:
 - [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
 - [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts.
+- [Keyboard Layouter Plugin](https://github.com/yskoht/keyboard-layouter) - Keyboard Layouter is a plugin for KiCad(pcbnew). This plugin places switch footprints in the location specified by JSON of Keyboard Layout Editor.
 - [mrkeebs Pcb Generator](http://kbpcb.mrkeebs.com/) - Quickly create PCB from KLE json.
 - [Kalerator](https://kalerator.clueboard.co/) - pcb generator for keyboard-layout-editor generated layouts.
 - [Keyboard Firmware Builder](https://kbfirmware.com/) - online QMK Firmware Builder. (2+ years behind QMK firmware master).
