@@ -64,6 +64,7 @@ Links:
 | <img width="500" src="https://github.com/SethSenpai/Tanuki/raw/master/Img/glamour1.jpg?raw=true"> | [Tanuki](https://github.com/SethSenpai/Tanuki) | 40% | Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. |
 | <img width="500" src="https://i.imgur.com/b00SUBq.jpg"> | [Tg4x](https://github.com/MythosMann/tg4x) | 40% |  |
 | <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/IMG_8444.jpg"> | [Stonehenge30](https://github.com/marksard/Keyboards) | 30% | |
+| <img width="500" src="https://github.com/uuupah/pain27/raw/master/titlecard.jpg?raw=true"> | [pain27](https://github.com/uuupah/pain27) | 27% | The pain27 is an open source keyboard project to make an easily usable, yet completely and utterly unusable qwerty keyboard with all the letters of the english alphabet, a spacebar, and nothing else. |
 | <img width="500" src="https://camo.githubusercontent.com/5d70849f1a29a1be2a72173515f11576bac1946c/68747470733a2f2f692e696d6775722e636f6d2f616c4e576e685a2e6a7067"> | [Alpha](https://github.com/PyrooL/Alpha) | <30% | A 28-key semi-ortholinear mechanical keyboard. |
 | <img width="500" src="https://i.imgur.com/q1GP4AV.jpg"> | [ANHEDRAL](https://github.com/eswai/anhedral) |  | Symmetrical SemiErgo layout keyboard. |
 | <img width="500" src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) | 87%, TKL | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
