@@ -137,6 +137,7 @@ Links:
 | Image | Name | Description |
 | --- | --- | --- |
 | <img minwidth="500" src="https://raw.githubusercontent.com/mohitg11/SAMPad/master/PCB.png"> | [SAMPad](https://github.com/mohitg11/SAMPad) | This is a custom numeric pad that is designed to be usable on the right side of the keyboard or on the left (With a mirrored layout if required). There is a gap in the top row and the second row of 1.25U. The top row can be broken off by simply scoring the two brifges and snapping. The bottom 5 rows can then be used in conjunction with a 60%/65% keyboard. |
+| <img width="500" src="https://github.com/mattdibi/yampad/raw/master/img/yampad.jpg"> | [yampad](https://github.com/mattdibi/yampad) | Hot-swappable, RGB-backlighted, OLED featured, mechanical numpad. |
 | <img minwidth="500" src="https://github.com/coseyfannitutti/discipad/raw/master/doc/images/discipad.jpeg"> | [Discipad](https://github.com/coseyfannitutti/discipad) | 17-key numpad assembled with only through hole components, including usb type-c. |
 | <img minwidth="500" src="https://raw.githubusercontent.com/ai03-2725/Soyuz/master/Renders/Front.png"> | [Soyuz](https://github.com/ai03-2725/Soyuz) | A single-PCB numpad kit. |
 | <img width="500" src="http://i.imgur.com/ofxdrWpl.jpg"> | [QazPad](https://geekhack.org/index.php?topic=43183.0) | It's a separate 10 key with some extra keys to allow it to stand alone for number crunching or gaming. |
@@ -145,8 +146,7 @@ Links:
 | <img width="500" src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg"> | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | Macropad that's look like game boy cart, can be 3d printed.<br />[Fusion 360 file](https://a360.co/2NWB7Tb) |
 | <img width="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. |
 | <img width="500" src="https://i.imgur.com/4du5zPD.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. |
-| <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad]
-| <img width="500" src="https://github.com/mattdibi/yampad/raw/master/img/yampad.jpg"> | [yampad](https://github.com/mattdibi/yampad) | Hot-swappable, RGB-backlighted, OLED featured, mechanical numpad. |
+| <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad] | |
 | <img width="500" src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png"> | [Lysergic25](https://github.com/Gtrx0/lysergic25) |  |
 | <img width="500" src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png"> | [Zesty25](https://github.com/Gtrx0/zesty25) | |
 | <img width="500" src="https://i.imgur.com/rpwE0qZ.png"> | [Medusa](https://github.com/Gtrx0/Medusa) | |
