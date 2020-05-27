@@ -145,7 +145,8 @@ Links:
 | <img width="500" src="https://cdn.thingiverse.com/renders/f2/ab/f5/bd/7a/590674241125b3f375c064646978a1d0_preview_featured.jpg"> | [Game cart macropad](https://www.thingiverse.com/thing:3029578) | Macropad that's look like game boy cart, can be 3d printed.<br />[Fusion 360 file](https://a360.co/2NWB7Tb) |
 | <img width="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. |
 | <img width="500" src="https://i.imgur.com/4du5zPD.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. |
-| <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad](https://git.bthlabs.pl/tomekwojcik/geekpad/) | A 3x3 custom mechanical macro pad. |
+| <img width="500" src="https://git.bthlabs.pl/tomekwojcik/geekpad/raw/master/geekpad.jpg"> | [Geekpad]
+| <img width="500" src="https://github.com/mattdibi/yampad/raw/master/img/yampad.jpg"> | [yampad](https://github.com/mattdibi/yampad) | Hot-swappable, RGB-backlighted, OLED featured, mechanical numpad. |
 | <img width="500" src="https://raw.githubusercontent.com/Gtrx0/lysergic25/master/Renders/Backside_populated.png"> | [Lysergic25](https://github.com/Gtrx0/lysergic25) |  |
 | <img width="500" src="https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png"> | [Zesty25](https://github.com/Gtrx0/zesty25) | |
 | <img width="500" src="https://i.imgur.com/rpwE0qZ.png"> | [Medusa](https://github.com/Gtrx0/Medusa) | |
