@@ -54,7 +54,7 @@ Links:
 | <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
-| <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/20181219-PC190003.jpg"> | [Treadstone48](https://github.com/marksard/Keyboards) | 48% | |
+| <img width="500" src="https://github.com/marksard/Keyboards/raw/master/_image/_treadstone48.jpg"> | [Treadstone48](https://github.com/marksard/Keyboards) | 48% | |
 | <img width="500" src="https://i.imgur.com/dbD5LVY.png"> | [UT47.2](https://github.com/ai03-2725/UT47.2) | 47.2% | |
 | <img width="500" src="https://i.imgur.com/6tPV53j.png"> | [CPM43](https://github.com/Gtrx0/cpm43) | 43% | |
 | <img width="500" src="http://i.imgur.com/DrsPypr.jpg?1"> | [Regack's 40%](https://github.com/regack/40Pct) | 40% | |
