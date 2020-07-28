@@ -42,6 +42,7 @@ Links:
 | <img width="500" src="https://github.com/sbstjn/68Keys.io/raw/master/keyboard.jpg"> | [68Keys.io](https://68keys.io) | 68% | |
 | <img width="500" src="https://cdn.thingiverse.com/renders/f2/af/c2/ce/e6/11b1601df06621e69068389e4fb0d943_preview_featured.JPG"> | [SiCK-68](https://www.thingiverse.com/thing:3478494) | 68% | 3D printed keyboard. |
 | <img width="500" src="https://github.com/coseyfannitutti/discipline/raw/master/doc/images/discipline.jpeg"> | [Discipline](https://github.com/coseyfannitutti/discipline) | 65% | 65% keyboard assembled with only through hole components, including usb type-c. |
+| <img width="500" src="https://camo.githubusercontent.com/c5147518f77395e56627200b9a10bc2bece88632/68747470733a2f2f692e696d6775722e636f6d2f794b4d423361442e6a7067"> | [Pheromone](https://github.com/luantty2/pheromone_keyboard) | 63% | 63-key keyboard supports slide potentiometer, rotary encoder and oled screen. |
 | <img width="500" src="https://i.imgur.com/qqVo5vY.png"> | [Voyager60](https://github.com/ai03-2725/Voyager60) | 60% | A simple MX/Alps 60% board that just works. |
 | <img width="500" src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width="500" src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
