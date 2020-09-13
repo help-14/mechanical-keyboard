@@ -51,6 +51,7 @@ Links:
 | <img width="500" src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
 | <img width="500" src="http://i.imgur.com/0BE8UIz.jpg"> | [TCKB](https://deskthority.net/viewtopic.php?t=14952) | 60% | 60% keyboard using STM32. |
 | <img width="500" src="https://i.imgur.com/rA1l01D.jpg"> | [Lot60-BLE](https://github.com/Lotlab/Lot60-BLE-Keyboard) | 60% | 60% BLE keyboard using nRF51822 as the main controller, CH554 as the USB chip. |
+| <img width="500" src="https://i.imgur.com/DeqS3np.jpg"> | [Bakeneko 60](https://kkatano.github.io/bakeneko-60/) | 60% | An open source O-ring gasket mount keyboard. |
 | <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
