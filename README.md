@@ -47,7 +47,7 @@ Links:
 | <img width="500" src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/uhk-split-photo-1200x647.jpg"> | [Ultimate hacking keyboard](https://github.com/UltimateHackingKeyboard) |  60% | Split 60% keyboard with trackpoint. |
 | <img width="500" src="http://blog.komar.be/wp-content/uploads/2013/02/ttt1.jpg"> | [GH60](https://github.com/komar007/gh60) | 60% | The most popular 60% keyboard pcb. |
 | <img width="500" src="https://input.club/wp-content/uploads/2015/07/massdrop-infinity-side-2.jpg"> | [Infinity 60%](https://github.com/kiibohd/pcb/tree/master/IC60) | 60% | |
-| <img width="500" src="https://i.imgur.com/DjRwgT5.png"> | [Plainy 60-c](https://github.com/Maartenwut/plain60-c) | 60% | This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. |
+| <img width="500" src="https://i.imgur.com/DjRwgT5.png"> | [Plain60-C](https://github.com/Maartenwut/plain60-c) | 60% | This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. |
 | <img width="500" src="https://i.imgur.com/3tVMc1K.png"> | [TMK Alps 64](https://github.com/tmk/alps64) | 60% | Poker X compatible 60% size PCB supports various Alps switch keyboard layouts like AEK, Omnikey, Dell, V60MTS and Infinity. |
 | <img width="500" src="http://i.imgur.com/0BE8UIz.jpg"> | [TCKB](https://deskthority.net/viewtopic.php?t=14952) | 60% | 60% keyboard using STM32. |
 | <img width="500" src="https://i.imgur.com/rA1l01D.jpg"> | [Lot60-BLE](https://github.com/Lotlab/Lot60-BLE-Keyboard) | 60% | 60% BLE keyboard using nRF51822 as the main controller, CH554 as the USB chip. |
