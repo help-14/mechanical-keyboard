@@ -53,6 +53,8 @@ Links:
 | <img width="500" src="http://i.imgur.com/0BE8UIz.jpg"> | [TCKB](https://deskthority.net/viewtopic.php?t=14952) | 60% | 60% keyboard using STM32. |
 | <img width="500" src="https://i.imgur.com/rA1l01D.jpg"> | [Lot60-BLE](https://github.com/Lotlab/Lot60-BLE-Keyboard) | 60% | 60% BLE keyboard using nRF51822 as the main controller, CH554 as the USB chip. |
 | <img width="500" src="https://i.imgur.com/DeqS3np.jpg"> | [Bakeneko 60](https://kkatano.github.io/bakeneko-60/) | 60% | An open source O-ring gasket mount keyboard. |
+| <img width="500" src="https://github.com/makerdiary/python-keyboard/raw/main/img/python-inside-keyboard.png"> | [hand-wired python keyboard](https://github.com/makerdiary/python-keyboard) | 60% | An open source hand-wired, USB + BLE keyboard powered by python. |
+| <img width="500" src="https://raw.githubusercontent.com/makerdiary/python-keyboard/main/img/m60.jpg"> | [Makerdiary M60](https://makerdiary.com/m60) | 60% | A hot-swappable, USB + BLE keyboard. |
 | <img width="500" src="https://i.imgur.com/Vry6lbu.jpg"> | [QOL56](https://github.com/eswai/QOL56) | 56% | 56-key mechanical keyboard for Oyayubi-shift Japanese input. |
 | <img width="500" src="http://i.imgur.com/8t38Vse.jpg"> | [Regack's 59%](https://github.com/regack/59pct) | 59% | A reduced size keyboard, but not quite 60%. |
 | <img width="500" src="http://i.imgur.com/P9zDLwH.jpg"> | [iso50](https://github.com/trebb/iso50) | 50% | |
@@ -242,6 +244,7 @@ Links:
 -  [Polymer firmware](https://gitlab.com/polymer-kb/firmware/polymer) - Polymer keyboard firmware.
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
 -  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
+-  [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
 
 ## Tutorials
 
