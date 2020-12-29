@@ -73,6 +73,7 @@ Links:
 | <img minwidth="500" src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | 87%, TKL | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
 | <img minwidth="500" src="https://i.imgur.com/RyPnxkp.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | 68% | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. |
 | <img minwidth="500" src="https://i.imgur.com/rIdJYQh.png"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | 60% | [THIS HAVE NOT BEEN TESTED YET]<br />Bluetooth 60% keyboard. |
+| <img minwidth="500" src="https://raw.githubusercontent.com/joshajohnson/entropy/master/docs/entropy.jpeg"> | [Entropy](https://github.com/joshajohnson/entropy) [![License](https://img.shields.io/badge/License-CERN%20OHL%202-green.svg)](https://ohwr.org/cern_ohl_s_v2.txt) | 96% | A 96% Southpaw keyboard, with split space and encoder support. |
 
 ## Ergonomics Keyboards
 
