@@ -139,6 +139,7 @@ Links:
 | <img minwidth="500" src="https://i.imgur.com/v4ITyT7.png"> | [For Science](https://github.com/peej/for-science-keyboard) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | For Science is a 46 key ortholinear split keyboard PCB with a 3 key thumb cluster. |
 | <img minwidth="500" src="https://i.imgur.com/AzizjFa.png"> | Zen Keyboard [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | [PCB](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) <br/> [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) |
 | <img minwidth="500" src="https://i.imgur.com/SXOvGBl.jpg"> | [Nack](https://github.com/pastapojken/nack) [![AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/) | The nack has 52-keys for ISO friendliness plus all the bells & whistles QMK has to offer. |
+| <img minwidth="500" src="https://i.imgur.com/H6u3gQP.jpeg"> | [PouetPouet](https://github.com/dkm/pouetpouet-board) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | 60 keys with visible SMD components and a [Rust](https://github.com/TeXitoi/keyberon) firmware. |
 
 ## Numpad/Macropad
 
