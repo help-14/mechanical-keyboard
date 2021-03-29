@@ -143,6 +143,7 @@ Links:
 | <img minwidth="500" src="https://i.imgur.com/AzizjFa.png"> | Zen Keyboard [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | [PCB](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) <br/> [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) |
 | <img minwidth="500" src="https://i.imgur.com/SXOvGBl.jpg"> | [Nack](https://github.com/pastapojken/nack) [![AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/) | The nack has 52-keys for ISO friendliness plus all the bells & whistles QMK has to offer. |
 | <img minwidth="500" src="https://i.imgur.com/H6u3gQP.jpeg"> | [PouetPouet](https://github.com/dkm/pouetpouet-board) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | 60 keys with visible SMD components and a [Rust](https://github.com/TeXitoi/keyberon) firmware. |
+| <img minwidth="500" src="https://i.imgur.com/fXcCNWw.jpg"> | [m65](https://gitlab.com/drFaustroll/m65) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | 65 keys nothing fancy qmk firmware. |
 
 ## Numpad/Macropad
 
