@@ -72,10 +72,13 @@ Links:
 | <img minwidth="500" src="https://i.imgur.com/qZSf9bZ.png"> | [pain27](https://github.com/uuupah/pain27) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) | 27% | The pain27 is an open source keyboard project to make an easily usable, yet completely and utterly unusable qwerty keyboard with all the letters of the english alphabet, a spacebar, and nothing else. |
 | <img minwidth="500" src="https://i.imgur.com/RWs8E36.png"> | [Alpha](https://github.com/PyrooL/Alpha) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | <30% | A 28-key semi-ortholinear mechanical keyboard. |
 | <img minwidth="500" src="https://i.imgur.com/q1GP4AV.jpg"> | [ANHEDRAL](https://github.com/eswai/anhedral) [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |  | Symmetrical SemiErgo layout keyboard. |
+| <img minwidth="500" src="https://i.imgur.com/A4R4rOY.jpg"> | [Unix60](https://github.com/mkdl/Unix60) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | 60% | A 60% hhkb-layout keyboard designed by mkdl FR4Boards |
+| <img minwidth="500" src="https://i.imgur.com/dXzvAc1.jpg"> | [Southpaw75](https://github.com/kelvinhall05/Southpaw75) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | 96% | A southpaw-style layout designed by Kelvin Hall of FR4Boards |
 |  | [Re Keyboard collection](https://github.com/kushima8/Re) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Split keyboards with rotary encoder. |
 | <img minwidth="500" src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | 87%, TKL | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button.|
 | <img minwidth="500" src="https://i.imgur.com/RyPnxkp.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | 68% | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. |
 | <img minwidth="500" src="https://i.imgur.com/rIdJYQh.png"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) | 60% | [THIS HAVE NOT BEEN TESTED YET]<br />Bluetooth 60% keyboard. |
+
 
 ## Ergonomics Keyboards
 
@@ -116,6 +119,9 @@ Links:
 | <img minwidth="500" src="https://i.imgur.com/o4NxDTk.png"> | [Orbit](https://github.com/ai03-2725/Orbit) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | A split ergonomic keyboard pcb with usb type c. |
 | <img minwidth="500" src="https://i.imgur.com/wQxLrBZ.png"> | [elephant42](https://github.com/illness072/elephant42) [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |  |
 | <img minwidth="500" src="https://i.imgur.com/Xt1FBFW.png"> | [pteron](https://github.com/FSund/pteron-keyboard) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. |
+
+
+
 
 ## Ortholinear Keyboards
 
