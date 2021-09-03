@@ -241,6 +241,7 @@ Links:
 -  [The VIA](https://github.com/the-via/firmware) - QMK based firmware for the view app.
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
 -  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
+-  [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.
 -  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
