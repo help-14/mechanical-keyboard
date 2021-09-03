@@ -5,6 +5,7 @@
 # Mechanical Keyboard and where to find them
 This list will help you quickly find your favorite layout and you can start DIY your own custom keyboard.
 
+
 ## Quick links
 Keyboard:
 - [Normal Keyboards](#normal-keyboards)
@@ -292,3 +293,6 @@ Links:
 ### Contributing
 
 Contributions welcome!
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=help-14.mechanical-keyboard)
