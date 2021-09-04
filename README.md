@@ -22,8 +22,8 @@ Components:
 
 Links:
 - [Firmware](#firmware)
-- [Tutorials](#tutorials)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 
 ## Normal Keyboards
 
@@ -255,17 +255,6 @@ Links:
 -  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
 -  [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
 
-## Tutorials
-
--   [PCB Designer Guide by ai03](https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
--   [Keyboard PCB Guide by ruiqimao](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
--   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
--   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
--   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
--   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
--   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
--   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
-
 ## Tools
 
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. 
@@ -288,6 +277,17 @@ Links:
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 - [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
+
+## Tutorials
+
+-   [PCB Designer Guide by ai03](https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide)
+-   [Keyboard PCB Guide by ruiqimao](https://github.com/ruiqimao/keyboard-pcb-guide/blob/master/README.md)
+-   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
+-   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
+-   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
+-   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
+-   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
+-   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
 
 ---
 
