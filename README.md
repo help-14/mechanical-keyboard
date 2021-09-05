@@ -199,25 +199,25 @@ Links:
 
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/CfmWG31.png"> | [TEK-80 TKL](https://geekhack.org/index.php?topic=41202.0) | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
-| <img loading="lazy" minwidth="500" src="http://i.imgur.com/9HcfEzVh.jpg"> | [TKL acrylic case](https://github.com/mohitg11/TKL-Case) | 87%, TKL | Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/5cEY1cy.png"> | [Classic 87](https://github.com/help-14/classic87) | 87%, TKL | Compatibility: Unknown |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/Sp3K3wP.png"> | [XD87 mica case](https://www.mediafire.com/file/1fzco3ar87k8g62/xd87.dwg/file) | 87%, TKL | Compatibility: XD87 PCB |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/YYZ7ohi.png"> | [60% acrylic case by MOZ](https://github.com/mohitg11/TKL-Case) | 60% | Compatibility: GH60, Poker, Poker 2, Pure, Pure Pro  |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/up1Dzyr.png"> | [Infinity 60% case](https://github.com/kiibohd/case/tree/master/infinity-keyboard) | 60% | Compatibility: Standard 60% case, hhkb |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/FCbXnxq.png"> | [Whitefox case]() | 68% | Compatibility: Whitefox |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/tOjBjBu.png"> | [Lubrigante](https://github.com/Zambumon/Lubrigante) | 68% | Compatibility: TGR Alice and compatible pcb |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/s3kVVJq.png"> | [Yutsky's TGR Alice](https://geekhack.org/index.php?topic=95054.msg2661499#msg2661499) | 68% | Compatibility: TGR Alice and compatible pcb |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/1NnYWZ5.png"> | [Arisu custom case](https://github.com/overset/JP01) | 68% | Compatibility: Arisu |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/cNG5hjO.png"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  | Compatibility: Infinity ergodo |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/L7u3jX5.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | | 3d printed case for  Redox keyboard. |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/CfmWG31.png"> | [TEK-80 TKL](https://geekhack.org/index.php?topic=41202.0) | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
+| <img loading="lazy" minwidth="500" src="http://i.imgur.com/9HcfEzVh.jpg"> | [TKL acrylic case](https://github.com/mohitg11/TKL-Case) | Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/5cEY1cy.png"> | [Classic 87](https://github.com/help-14/classic87) | Compatibility: Unknown |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/Sp3K3wP.png"> | [XD87 mica case](https://www.mediafire.com/file/1fzco3ar87k8g62/xd87.dwg/file) |Compatibility: XD87 PCB |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/YYZ7ohi.png"> | [60% acrylic case by MOZ](https://github.com/mohitg11/TKL-Case) |  Compatibility: GH60, Poker, Poker 2, Pure, Pure Pro  |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/up1Dzyr.png"> | [Infinity 60% case](https://github.com/kiibohd/case/tree/master/infinity-keyboard) | Compatibility: Standard 60% case, hhkb |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/FCbXnxq.png"> | [Whitefox case]() | Compatibility: Whitefox |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/tOjBjBu.png"> | [Lubrigante](https://github.com/Zambumon/Lubrigante) |  Compatibility: TGR Alice and compatible pcb |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/s3kVVJq.png"> | [Yutsky's TGR Alice](https://geekhack.org/index.php?topic=95054.msg2661499#msg2661499) |  Compatibility: TGR Alice and compatible pcb |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/1NnYWZ5.png"> | [Arisu custom case](https://github.com/overset/JP01) | Compatibility: Arisu |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/cNG5hjO.png"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  Compatibility: Infinity ergodo |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/L7u3jX5.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | 3d printed case for  Redox keyboard. |
 
 ## Plate
 
 | Image | Name  | Size | Description |
 | --- | --- | --- | --- |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/bK2ZY7z.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | 60% | Compatibility: Infinity, HHKB, Tai-Hao, ... |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/pk7rdcn.png"> | [Plates Collection](https://github.com/help-14/keyboard-plate) | ~ | Collection of various plates ... |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/bK2ZY7z.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | Compatibility: Infinity, HHKB, Tai-Hao, ... |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/pk7rdcn.png"> | [Plates Collection](https://github.com/help-14/keyboard-plate) | Collection of various plates ... |
 
 ## Keycaps
 - [SA profile 1](https://github.com/getclacking/SA-profile-keys-3D-models) - 3D model of SA profile keycaps.
