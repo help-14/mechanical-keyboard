@@ -147,6 +147,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/H6u3gQP.jpeg"> | [PouetPouet](https://github.com/dkm/pouetpouet-board) | 60 keys with visible SMD components and a [Rust](https://github.com/TeXitoi/keyberon) firmware. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/fXcCNWw.jpg"> | [m65](https://gitlab.com/drFaustroll/m65) | 65 keys nothing fancy qmk firmware <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 
+
 ## Numpad/Macropad
 
 | Image | Name | Description |
@@ -170,6 +171,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/8KpX5dm.png"> | [Cherry MX Keypad](http://syncchannel.blogspot.com/2016/06/cherry-mx-keypad.html?m=1) | 1x4 keypad with led. <br /> [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/u0j4yGH.png"> | [2% Milk keyboard](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 
+
 ## Others Keyboards
 
 | Image | Name | Description |
@@ -180,6 +182,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/QzjOlWT.jpg"> | [Cherry-Mx-LED-Bitboard](https://github.com/swanmatch/MxLEDBitPCB) | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/VlqjNpN.jpg"> | [Usb Adapter](https://github.com/help-14/mechkey-usb-adapter/) | For customize keyboard connector and pcb. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/hzB6VFe.png"> | [Unified Daughterboard Project](https://github.com/ai03-2725/Unified-Daughterboard) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
 
 ## Controller
 
@@ -195,10 +198,11 @@ Links:
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/MqRRvkN.jpg"> | [Teensy Soarer](https://geekhack.org/index.php?topic=58941.0) | Convert old keyboard socket to usb. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/C154TSS.png"> | [Beamspring USB controller](https://deskthority.net/viewtopic.php?f=7&t=6044&start=) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 
+
 ## Case
 
-| Image | Name  | Size | Description |
-| --- | --- | --- | --- |
+| Image | Name  | Description |
+| --- | --- | --- |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/CfmWG31.png"> | [TEK-80 TKL](https://geekhack.org/index.php?topic=41202.0) | Compatibility: Phantom, Universal TKL Plate, Filco TKL, Winkeyless, Gon |
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/9HcfEzVh.jpg"> | [TKL acrylic case](https://github.com/mohitg11/TKL-Case) | Compatibility: Phantom, Universal TKL Plate, QFR, Filco TKL |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/5cEY1cy.png"> | [Classic 87](https://github.com/help-14/classic87) | Compatibility: Unknown |
@@ -212,21 +216,27 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/cNG5hjO.png"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  Compatibility: Infinity ergodo |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/L7u3jX5.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | 3d printed case for  Redox keyboard. |
 
+
 ## Plate
 
-| Image | Name  | Size | Description |
-| --- | --- | --- | --- |
+| Image | Name  | Description |
+| --- | --- | --- |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/bK2ZY7z.png"> | [60% Alps Plates](https://geekhack.org/index.php?topic=82916.0) | Compatibility: Infinity, HHKB, Tai-Hao, ... |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/pk7rdcn.png"> | [Plates Collection](https://github.com/help-14/keyboard-plate) | Collection of various plates ... |
 
+
 ## Keycaps
-- [SA profile 1](https://github.com/getclacking/SA-profile-keys-3D-models) - 3D model of SA profile keycaps.
-- [SA profile 2](https://www.thingiverse.com/thing:2783650) - Another 3D model of SA profile keycaps.
-- [Cherry profile 1](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) - 3D model of Cherry profile keycaps.
-- [Cherry profile 2](https://www.dropbox.com/sh/85bju0itsc0uq8d/AACL3VH4aLr_csUXS6e8WVnla) - Another 3D model of Cherry profile keycaps.
-- [DSA profile](https://www.thingiverse.com/thing:2172302) - 3D model of DSA keycaps.
-- [XDA profile](https://github.com/spooknik/XDA-Keycaps) - 3D model of XDA keycaps.
-- [Kailh low profile](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) - 3D model of kailh low profile keycaps.
+
+| Image | Name  | Description |
+| --- | --- | --- |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/SMG0aX6.png"> | [SA profile 1](https://github.com/getclacking/SA-profile-keys-3D-models) | 3D model of SA profile keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/9391yKW.png"> | [SA profile 2](https://www.thingiverse.com/thing:2783650) | Another 3D model of SA profile keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/rzLSjyr.png"> | [Cherry profile 1](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) | 3D model of Cherry profile keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/B2OtHC7.png"> | [Cherry profile 2](https://www.dropbox.com/sh/85bju0itsc0uq8d/AACL3VH4aLr_csUXS6e8WVnla) | Another 3D model of Cherry profile keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/FPilI38.png"> | [DSA profile](https://www.thingiverse.com/thing:2172302) | 3D model of DSA keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/78gx13r.png"> | [XDA profile](https://github.com/spooknik/XDA-Keycaps) | 3D model of XDA keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/Ug4WdO9.png"> | [Kailh low profile](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) | 3D model of kailh low profile keycaps |
+
 
 ## Firmware
 
@@ -249,6 +259,7 @@ Links:
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
 -  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
 -  [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
+
 
 ## Tools
 
