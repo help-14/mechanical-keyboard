@@ -159,7 +159,6 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/F8OLE64.png"> | [Soyuz](https://github.com/ai03-2725/Soyuz) | A single-PCB numpad kit. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/ofxdrWpl.jpg"> | [QazPad](https://geekhack.org/index.php?topic=43183.0) | It's a separate 10 key with some extra keys to allow it to stand alone for number crunching or gaming. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/piKOjsD.png"> | [Dumpad](https://github.com/imchipwood/dumbpad) | Simple 4x4 numpad with a rotary encoder. <br /> [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/4du5zPD.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/NWvtmBA.png"> | [Lysergic25](https://github.com/Gtrx0/lysergic25) | [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/jiu1b7p.png"> | [Zesty25](https://github.com/Gtrx0/zesty25 |) [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
@@ -217,6 +216,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/1NnYWZ5.png"> | [Arisu custom case](https://github.com/overset/JP01) | Compatibility: Arisu |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/cNG5hjO.png"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  Compatibility: Infinity ergodo |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/L7u3jX5.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | 3d printed case for  Redox keyboard. |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 
 ## Plate
