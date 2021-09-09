@@ -217,6 +217,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/cNG5hjO.png"> | [Infinity ergodox case](https://github.com/kiibohd/case/tree/master/infinity-ergodox) |  Compatibility: Infinity ergodo |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/L7u3jX5.png"> | [Redox case](https://github.com/Lenbok/scad-redox-case) | 3d printed case for  Redox keyboard. |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/r38ISOL.jpg"> | [Travel Numpad](https://github.com/help-14/travel-numpad) | A 4x4 custom numpad. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/hTpRCnD.png"> | [RNG3nius's Krotepad](https://drive.google.com/drive/folders/1779YKnZgDK20SfGoq7czK2Cnsij8UwdK) |  |
 
 
 ## Plate
