@@ -272,8 +272,10 @@ Links:
 -  [TMK](https://github.com/tmk/tmk_keyboard) - A very popular firmware that support Atmega32u4 powered keyboard.
 -  [QMK](https://github.com/qmk/qmk_firmware) - Base on TMK but support a lot of controller, support RGB, easy to use.
 -  [The VIA](https://github.com/the-via/firmware) - QMK based firmware for the view app.
--  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
+-  [KMK](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
+-  [ZMK](https://zmk.dev/) - Modern, open source keyboard firmware
 -  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
+-  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
 -  [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.
 -  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
 -  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
