@@ -289,6 +289,7 @@ Links:
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
 -  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
 -  [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
+-  [QMK-VIA-Hex](https://github.com/Xelus22/QMK-VIA-Hex) - Precompile via firmware for qmk supported keyboard.
 
 
 ## Tools
