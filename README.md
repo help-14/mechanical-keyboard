@@ -164,7 +164,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/AzizjFa.png"> | Zen Keyboard | [PCB](https://github.com/RGBKB/Keyboard-files/tree/master/Zen) <br/> [Build Guide](https://legonut.gitbooks.io/zen-keyboard/content/) <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/SXOvGBl.jpg"> | [Nack](https://github.com/pastapojken/nack) | The nack has 52-keys for ISO friendliness plus all the bells & whistles QMK has to offer. <br /> [![AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/H6u3gQP.jpeg"> | [PouetPouet](https://github.com/dkm/pouetpouet-board) | 60 keys with visible SMD components and a [Rust](https://github.com/TeXitoi/keyberon) firmware. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/fXcCNWw.jpg"> | [m65](https://gitlab.com/drFaustroll/m65) | 65 keys nothing fancy qmk firmware <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/fXcCNWw.jpg"> | [m65 v1](https://gitlab.com/m-lego/m65) | 65 keys nothing fancy qmk firmware stmf103<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/ersc431.png"> | [Lumberjack](https://github.com/peej/lumberjack-keyboard) | Split 5x12 ortholinear keyboard PCB using through-hole components only. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/uBAIjJB.png"> | [Ukiha](https://github.com/e3w2q/ukiha-keyboard) | Small key pitch 5x12 ortholinear keyboard. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/iMKaUR2.png"> | [QOL56](https://github.com/eswai/QOL56) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
@@ -172,6 +172,10 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/kBjGsG7.png"> | [Dorsch 48k](https://hackaday.io/project/174917-dorsch-48k-keyboard) | A low-profile 40% mechanical keyboard with a Planck layout, programmed with CircuitPython. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/JyrJqqp.png"> | [Dorsch 40k](https://hackaday.io/project/174095-dorsch-40k-keyboard) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/kxyTa5A.png"> | [prkl30](https://github.com/ErkHal/prkl30) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/Ah4aUG4.jpg"> | [m48](https://gitlab.com/m-lego/m48) | 48 keys 4x12, encoder and led strip (optionally) qmk firmware stm32f401 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/WQ725UQ.jpg"> | [m60](https://gitlab.com/m-lego/m60) | 60 keys 5x12, encoder and led strip (optionally) qmk firmware stm32f401 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/3QfVLFR.jpg"> | [m60_split](https://gitlab.com/m-lego/m60_split) | 60 keys 5x12, split, encoders and led strips (optionally) qmk firmware stm32f401<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/12qGBFm.jpg"> | [m65 v4](https://gitlab.com/m-lego/m65) | 65 keys 5x13, encoder and led strip (optionally) qmk firmware stm32f401 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 
 
 ## Numpad/Macropad
@@ -283,7 +287,7 @@ Links:
 -  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
 -  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
 -  [Lotlab/nrf51822-keyboard](https://github.com/Lotlab/nrf51822-keyboard) - This is a firmware based on nrf51822 Bluetooth keyboard, which uses nRF SDK 10.0 as the underlying hardware driver, and uses TMK keyboard library as the upper part of the keyboard function.
--  [Keyberon](https://github.com/TeXitoi/keyberon) - Keyboard firmware written in Rust. 
+-  [Keyberon](https://github.com/TeXitoi/keyberon) - Keyboard firmware written in Rust.
 -  [Key To Key](https://github.com/TyberiusPrime/KeyToKey) - Rust libary for building keyboard firmwares.
 -  [Polymer firmware](https://gitlab.com/polymer-kb/firmware/polymer) - Polymer keyboard firmware.
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
@@ -294,9 +298,9 @@ Links:
 
 ## Tools
 
-- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key. 
-- [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html): Render 3D keyboard from KLE json. 
-- [Keycap Renders](https://keycaprenders.com/): Render 3D keycap set. 
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key.
+- [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html): Render 3D keyboard from KLE json.
+- [Keycap Renders](https://keycaprenders.com/): Render 3D keycap set.
 - [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
 - [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts.
