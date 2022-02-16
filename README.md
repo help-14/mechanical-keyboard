@@ -134,6 +134,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/o4NxDTk.png"> | [Orbit](https://github.com/ai03-2725/Orbit) | A split ergonomic keyboard pcb with usb type c. <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/wQxLrBZ.png"> | [elephant42](https://github.com/illness072/elephant42) | [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Xt1FBFW.png"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| <img loading="lazy" minwidth="500" src="https://github.com/strayer/taira-keyboard/raw/main/docs/taira-1.0.jpg"> | [Taira](https://github.com/strayer/taira-keyboard) | A wireless low-profile split mechanical keyboard with 66 keys inspired by the ErgoDash and Corne Chocolate <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 
 ## Ortholinear Keyboards
