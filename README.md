@@ -207,6 +207,7 @@ Links:
 
 | Image | Name | Description |
 | --- | --- | --- |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/pdoK0uZ.jpg"> | [Penkesu Computer](https://github.com/penk/penkesu) | A Homebrew Retro-style Handheld PC <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/b34JWsF.png"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/DkBIXZj.png"> | [Some other collection of mechkey kicad pcb](https://github.com/mechkeys/mechkeys) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/tutLiqB.png"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs)  | Make handwiring keyboard easier. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
