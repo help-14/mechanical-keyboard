@@ -4,11 +4,21 @@ This list will help you quickly find your favorite layout and you can start DIY 
 
 ## Quick links
 Keyboard:
-- [Normal Keyboards](#normal-keyboards)
-- [Ergonomics Keyboards](#ergonomics-keyboards)
-- [Ortholinear Keyboards](#ortholinear-keyboards)
-- [Numpad/Macropad](#numpadmacropad)
-- [Others Keyboards](#others-keyboards)
+- [Mechanical Keyboard and where to find them](#mechanical-keyboard-and-where-to-find-them)
+  - [Quick links](#quick-links)
+  - [Normal Keyboards](#normal-keyboards)
+  - [Ergonomics Keyboards](#ergonomics-keyboards)
+  - [Ortholinear Keyboards](#ortholinear-keyboards)
+  - [Numpad/Macropad](#numpadmacropad)
+  - [Others Keyboards](#others-keyboards)
+  - [Controller](#controller)
+  - [Case](#case)
+  - [Plate](#plate)
+  - [Keycaps](#keycaps)
+  - [Firmware](#firmware)
+  - [Tools](#tools)
+  - [Tutorials](#tutorials)
+    - [Contributing](#contributing)
 
 Components:
 - [Controller](#controller)
@@ -132,6 +142,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/TMbvdkA.png"> | [Corne](https://github.com/foostan/crkbd) | Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys, rgb, based on [Helix](https://github.com/MakotoKurauchi/helix). <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/TOdICf7.png"> | MiniDox | [Pcb](https://github.com/That-Canadian/MiniDox_pcb)<br />[Case](https://github.com/dotdash32/cases/tree/master/Minidox) <br /> [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/o4NxDTk.png"> | [Orbit](https://github.com/ai03-2725/Orbit) | A split ergonomic keyboard pcb with usb type c. <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/FOpHIbt.png"> | [Lil Chonky Bois](https://github.com/sanderboer/chonkybois) | MX hotswap, wireless version. <br /> [![License: Creative Commons Zero](https://img.shields.io/badge/License-CC%20Zero-lightgrey.svg)](https://github.com/sanderboer/chonkybois/blob/main/LICENSE) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/wQxLrBZ.png"> | [elephant42](https://github.com/illness072/elephant42) | [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Xt1FBFW.png"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://github.com/strayer/taira-keyboard/raw/main/docs/taira-1.0.jpg"> | [Taira](https://github.com/strayer/taira-keyboard) | A wireless low-profile split mechanical keyboard with 66 keys inspired by the ErgoDash and Corne Chocolate <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
@@ -191,11 +202,14 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/piKOjsD.png"> | [Dumbpad](https://github.com/imchipwood/dumbpad) | Simple 4x4 numpad with a rotary encoder. <br /> [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/4du5zPD.jpg"> | [Kbord](https://github.com/dekuNukem/kbord) | kbord is a programmable keypad with 15 mechanical keys, each of which can be set to execute a script when pressed. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/NWvtmBA.png"> | [Lysergic25](https://github.com/Gtrx0/lysergic25) | [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
-| <img loading="lazy" minwidth="500" src="https://i.imgur.com/jiu1b7p.png"> | [Zesty25](https://github.com/Gtrx0/zesty25 |) [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/eEitYOM.png"> | [Logomorph Macro Keyboard](https://github.com/Logomorph/MacroKeyboard) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/jiu1b7p.png"> | [Zesty25](https://github.com/Gtrx0/zesty25) | [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/rpwE0qZ.png"> | [Medusa](https://github.com/Gtrx0/Medusa) | [![License](https://img.shields.io/badge/License-CERN%20OHL%201.2-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v1.2) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/O9VsdSU.png"> | [LFK17](https://github.com/lfkeyboards/lfk17) | 5x4 numpad. <br /> [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/N1i7BsI.png"> | [Hub16](https://github.com/joshajohnson/Hub16) | [![License](https://img.shields.io/badge/License-CERN%20OHL%202-green.svg)](https://ohwr.org/cern_ohl_s_v2.txt) |
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/A6dkDqE.jpg"> | [Staryu](https://geekhack.org/index.php?topic=72529.0) | An Open-source 5-key Keypad. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/bzKx6P8.png"> | [Croaky4](https://github.com/Selovert/Croaky4) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/9Bc5Ojx.png"> | [Env-MCRO](https://github.com/Envious-Data/Env-MCRO) | Pi Pico powered Macro board. <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/b1eTA4a.png"> | [Voyager4](https://github.com/ai03-2725/Voyager4) | A tiny, fully featured 4-key macropad PCB. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/72Qv6dl.png"> | [Cookpad](https://github.com/cookpad/cookpad-pad) | A six keys macro pad made by Cookpad. <br /> [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/byZAqbK.png"> | [I-S-hOle](https://www.40percent.club/2018/11/i-s-hole.html?m=1) | A small board with space for 4 ISO enter keys with PCB mount Cherry stabilizers. Powered by a Pro Micro. <br /> [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
@@ -210,6 +224,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/pdoK0uZ.jpg"> | [Penkesu Computer](https://github.com/penk/penkesu) | A Homebrew Retro-style Handheld PC <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/b34JWsF.png"> | [SIK Keyboard](https://github.com/mathieubolla/sik_keyboard) | An ergonomic, compact, mechanical keyboard <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/DkBIXZj.png"> | [Some other collection of mechkey kicad pcb](https://github.com/mechkeys/mechkeys) | [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/DrCoii6.png"> | [SU120](https://github.com/e3w2q/su120-keyboard) | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/tutLiqB.png"> | [Amoeba Single-Switch PCB](https://github.com/mtl/keyboard-pcbs)  | Make handwiring keyboard easier. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/QzjOlWT.jpg"> | [Cherry-Mx-LED-Bitboard](https://github.com/swanmatch/MxLEDBitPCB) | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/VlqjNpN.jpg"> | [Usb Adapter](https://github.com/help-14/mechkey-usb-adapter/) | For customize keyboard connector and pcb. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
