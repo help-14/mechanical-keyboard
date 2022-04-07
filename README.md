@@ -4,21 +4,11 @@ This list will help you quickly find your favorite layout and you can start DIY 
 
 ## Quick links
 Keyboard:
-- [Mechanical Keyboard and where to find them](#mechanical-keyboard-and-where-to-find-them)
-  - [Quick links](#quick-links)
-  - [Normal Keyboards](#normal-keyboards)
-  - [Ergonomics Keyboards](#ergonomics-keyboards)
-  - [Ortholinear Keyboards](#ortholinear-keyboards)
-  - [Numpad/Macropad](#numpadmacropad)
-  - [Others Keyboards](#others-keyboards)
-  - [Controller](#controller)
-  - [Case](#case)
-  - [Plate](#plate)
-  - [Keycaps](#keycaps)
-  - [Firmware](#firmware)
-  - [Tools](#tools)
-  - [Tutorials](#tutorials)
-    - [Contributing](#contributing)
+- [Normal Keyboards](#normal-keyboards)
+- [Ergonomics Keyboards](#ergonomics-keyboards)
+- [Ortholinear Keyboards](#ortholinear-keyboards)
+- [Numpad/Macropad](#numpadmacropad)
+- [Others Keyboards](#others-keyboards)
 
 Components:
 - [Controller](#controller)
