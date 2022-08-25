@@ -85,7 +85,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="http://i.imgur.com/6c3McKA.png"> | [RGB TKL](https://geekhack.org/index.php?topic=86243.0) | [THIS HAVE NOT BEEN TESTED YET]<br />TKL keyboard with RGB on each button. <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/RyPnxkp.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/rIdJYQh.png"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) | [THIS HAVE NOT BEEN TESTED YET]<br /> Bluetooth 60% keyboard. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
-
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/k00Uz6w.jpg"> | [Shoc](https://github.com/JannikB5825/Shoc) | [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## Ergonomics Keyboards
 
