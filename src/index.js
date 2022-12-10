@@ -1,5 +1,6 @@
 var path = require('path');
 var fs = require('fs');
+var fetch = require('node-fetch');
 const MarkdownIt = require('markdown-it');
 const md = new MarkdownIt();
 
