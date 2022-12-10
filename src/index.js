@@ -139,7 +139,7 @@ function exportTemplate(templateName, data) {
     if (data.categories) {
         content = content.replace('<!-- categories -->', data.categories.map(c => `
         <div class="card col-lg-4 m-2" style="width: 18rem;">
-        <!-- <img class="card-img-top" src="/assets/images/categories/${c.id}.jpg"> -->
+            <img class="card-img-top" src="/assets/images/categories/${c.id}.png">
             <div class="card-body">
                 <a href="/${c.id}.html"><h5 class="card-title">${c.title}</h5></a>
             </div>
