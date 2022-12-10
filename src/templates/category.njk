@@ -1,0 +1,66 @@
+{% extends "layout.njk" %}
+
+{% block blockContent %}
+
+    <section class="page-header section-sm">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="mb-2">Các bài viết trong mục</p>
+                    <h1 class="section-title h2 mb-3">
+                        <span>{{ title }}</span>
+                    </h1>
+                    <span>{{ description }}</span></a>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="row gy-5 gx-4 g-xl-5">
+            {% for post in search.pages(category, "date=desc") %}
+                <div class="col-lg-6">
+                    <article class="card post-card h-100 border-0 bg-transparent">
+                        <div class="card-body">
+                            <a class="d-block" href="{{ post.data.url }}" title="{{ post.data.title }}">
+                                <div class="post-image position-relative">
+                                    <img class="w-100 h-auto rounded" src="{{ post.data.cover }}" alt="{{ post.data.title }}" width="970" height="500">
+                                </div>
+                            </a>
+                            <ul class="card-meta list-inline mb-3">
+                                <li class="list-inline-item mt-2">
+                                    <i class="ti ti-calendar-event"></i>
+                                    <span>{{ post.data.time | date('SHORT_FORMAT', 'vi') }}</span>
+                                </li>
+                            </ul>
+                            <a class="d-block" href="{{ post.data.url }}" title="{{ post.data.title }}">
+                                <h3 class="mb-3 post-title">{{ post.data.title }}</h3>
+                            </a>
+                            <p>{{ post.data.description }}</p>
+                            <div class="card-footer border-top-0 bg-transparent p-0">
+                                <ul class="card-meta list-inline">
+                                    <li class="list-inline-item mt-2">
+                                        <a class="card-meta-author">
+                                            <img class="w-auto" src="/assets/images/author/{{ post.data.author }}.jpg" width="26" height="26">
+                                            <span>{{ post.data.author }}</span>
+                                        </a>
+                                    </li>
+                                    <li class="list-inline-item mt-2">•</li>
+                                    <li class="list-inline-item mt-2">
+                                        <ul class="card-meta-tag list-inline">
+                                            {% for tag in post.data.tags %}
+                                                <li class="list-inline-item small">
+                                                    <a href="/{{ tag }}">{{ tag }}</a>
+                                                </li>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock %}
