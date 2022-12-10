@@ -4,8 +4,12 @@
   "description": "Website builder for mechkey.org",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "build": "npm install && npm run start"
   },
   "author": "Help-14",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  }
 }
