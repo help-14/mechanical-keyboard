@@ -120,6 +120,7 @@ function copyFolderRecursiveSync(source, target) {
 function exportTemplate(templateName, data) {
     const layout = fs.readFileSync(path.join(__dirname, 'templates', 'layout.html')).toString()
     const ads = fs.readFileSync(path.join(__dirname, 'templates', 'ads.html')).toString()
+    const botads = fs.readFileSync(path.join(__dirname, 'templates', 'bottom-ads.html')).toString()
 
     const templatePath = path.join(__dirname, 'templates', `${templateName}.html`)
     if (!fs.existsSync(templatePath)) {
@@ -128,7 +129,7 @@ function exportTemplate(templateName, data) {
     const template = fs.readFileSync(templatePath).toString()
 
     let content = layout.replace('<!-- Content -->', template)
-    content = content.replace('<!-- Ads -->', ads)
+    content = content.replace(/<!-- Ads -->/g, ads).replace(/<!-- Bottom Ads -->/g, botads)
 
     if (data.title)
         content = content.replace('<!-- title -->', data.title)
