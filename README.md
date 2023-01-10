@@ -283,6 +283,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/FPilI38.png"> | [DSA profile](https://www.thingiverse.com/thing:2172302) | 3D model of DSA keycaps |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/78gx13r.png"> | [XDA profile](https://github.com/spooknik/XDA-Keycaps) | 3D model of XDA keycaps |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Ug4WdO9.png"> | [Kailh low profile](https://github.com/ogatatsu/Kailh-Low-Profile-Keycap) | 3D model of kailh low profile keycaps |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/ihZa7Ng.png"> | [Pseudo Make Me Key Cap Profile](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles) | Parametric Key Caps |
 
 
 ## Firmware
