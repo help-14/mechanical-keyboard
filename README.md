@@ -184,6 +184,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/3QfVLFR.jpg"> | [mlego/m60_split](https://gitlab.com/m-lego/m60_split) | 60 keys 5x12, split, encoders and led strips (optionally) qmk firmware stm32f401<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/12qGBFm.jpg"> | [mlego/m65 v4](https://gitlab.com/m-lego/m65) | 65 keys 5x13, encoder and led strip (optionally) qmk firmware stm32f401 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/tXKAT8e.png"> | [mlego/m65 rev 5](https://gitlab.com/m-lego/m65) | 65 keys 5x13, oled, encoder and led strip (optionally) qmk firmware rp2040 <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/iZjgrMD.jpg"> | [KLOR](https://github.com/GEIGEIGEIST/KLOR) | 36-42 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 
 
 ## Numpad/Macropad
