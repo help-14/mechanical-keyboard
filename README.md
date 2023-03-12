@@ -283,6 +283,7 @@ Links:
 
 | Image | Name  | Description |
 | --- | --- | --- |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/UVVaha9.png"> | [Kêb Finder](https://keeb-finder.com/keycaps) | Find the keycap color combination you were always looking for! |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/SMG0aX6.png"> | [SA profile 1](https://github.com/getclacking/SA-profile-keys-3D-models) | 3D model of SA profile keycaps |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/9391yKW.png"> | [SA profile 2](https://www.thingiverse.com/thing:2783650) | Another 3D model of SA profile keycaps |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/rzLSjyr.png"> | [Cherry profile 1](https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps) | 3D model of Cherry profile keycaps |
