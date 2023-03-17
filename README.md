@@ -296,28 +296,41 @@ Links:
 
 ## Firmware
 
+Atmega family:
 -  [EasyAVR](https://github.com/dhowland/EasyAVR) - EasyAVR is a keyboard firmware and keymapper GUI for custom keyboards based on USB AVRs. It is powerful but also really easy to use.
 -  [TMK](https://github.com/tmk/tmk_keyboard) - A very popular firmware that support Atmega32u4 powered keyboard.
 -  [QMK](https://github.com/qmk/qmk_firmware) - Base on TMK but support a lot of controller, support RGB, easy to use.
 -  [The VIA](https://github.com/the-via/firmware) - QMK based firmware for the view app.
--  [KMK](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
--  [ZMK](https://zmk.dev/) - Modern, open source keyboard firmware
--  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
--  [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.
--  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
--  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
--  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
--  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
--  [Lotlab/nrf51822-keyboard](https://github.com/Lotlab/nrf51822-keyboard) - This is a firmware based on nrf51822 Bluetooth keyboard, which uses nRF SDK 10.0 as the underlying hardware driver, and uses TMK keyboard library as the upper part of the keyboard function.
--  [Keyberon](https://github.com/TeXitoi/keyberon) - Keyboard firmware written in Rust.
--  [Key To Key](https://github.com/TyberiusPrime/KeyToKey) - Rust libary for building keyboard firmwares.
--  [Polymer firmware](https://gitlab.com/polymer-kb/firmware/polymer) - Polymer keyboard firmware.
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
 -  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
--  [python-keyboard](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
 -  [QMK-VIA-Hex](https://github.com/Xelus22/QMK-VIA-Hex) - Precompile via firmware for qmk supported keyboard.
+
+Raspberry Pi Pico:
+-  [KMK](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python.
+-  [PicoMK](https://github.com/zli117/PicoMK) - Configurable firmware for RP2040 powered mechanical keyboard.
+-  [Prk firmware](https://github.com/picoruby/prk_firmware) - A keyboard firmware platform in PicoRuby.
+-  [PYKB](https://github.com/makerdiary/python-keyboard) - A highly extensible firmware written in Python, based on CircuitPython, with RGB, USB and Bluetooth. similar to TMK/QMK.
+
+STM32 family:
+-  [ZMK](https://zmk.dev/) - Modern, open source keyboard firmware.
+-  [Keyberon](https://github.com/TeXitoi/keyberon) - Keyboard firmware written in Rust.
+
+Nordic family:
+-  [BlueMicro](https://github.com/jpconstantineau/BlueMicro_BLE) - A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
+-  [Bluetosis](https://github.com/geoah/bluetosis)  - Bluetooth firmware for the Mitosis keyboard.
+-  [Lotlab/nrf52-keyboard](https://github.com/Lotlab/nrf52-keyboard) - TMK based keyboard firmware for nRF52 series, now support both nRF52810 and nRF52832.
+-  [Lotlab/nrf51822-keyboard](https://github.com/Lotlab/nrf51822-keyboard) - This is a firmware based on nrf51822 Bluetooth keyboard, which uses nRF SDK 10.0 as the underlying hardware driver, and uses TMK keyboard library as the upper part of the keyboard function.
+
+Esp32 family:
+-  [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does.
+-  [MK32](https://github.com/Galzai/MK32) - BLE keyboard firmware for ESP32 microcontrollers,designed to be relativley easily customizable.
+-  [Key To Key](https://github.com/TyberiusPrime/KeyToKey) - Rust libary for building keyboard firmwares.
+
+Others:
+-  [Anne Key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust.
+-  [Polymer firmware](https://gitlab.com/polymer-kb/firmware/polymer) - Polymer keyboard firmware.
 
 
 ## Tools
