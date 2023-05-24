@@ -361,6 +361,7 @@ Others:
 - [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCAD footprint library for kailh choc and MX-style mechanical switches
 - [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCAD footprints for mechanical keyboard parts
 - [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design
+- [KiCAD Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCAD symbols and footprints for mechanical keyboard design, can be added as a plugin
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 - [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
@@ -375,7 +376,7 @@ Others:
 -   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
 -   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
 -   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
-
+-   [zmk design guide by eblaster](https://github.com/ebastler/zmk-designguide) - while it targets zmk keyboards the lessons apply wider than zmk
 ---
 
 ### Contributing
