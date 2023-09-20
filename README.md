@@ -329,7 +329,7 @@ Atmega family:
 -  [Keyplus](https://github.com/ahtn/keyplus) - An easy to use, wired and wireless modular keyboard firmware, for both ATXmega family and atmega32u4.
 -  [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 -  [Pipit keyboard](https://github.com/e-matteson/pipit-keyboard) - Firmware and config tools for chording keyboards.
--  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in rust.
+-  [rusty-c](https://about.houqp.me/posts/rusty-c/) - QMK in Rust.
 -  [QMK-VIA-Hex](https://github.com/Xelus22/QMK-VIA-Hex) - Precompile via firmware for qmk supported keyboard.
 
 Raspberry Pi Pico:
@@ -360,27 +360,27 @@ Others:
 
 ## Tools
 
-- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/): This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key.
-- [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html): Render 3D keyboard from KLE json.
-- [Keycap Renders](https://keycaprenders.com/): Render 3D keycap set.
-- [Plate & Case Builder](http://builder.swillkb.com/): keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
-- [ai03 Plate Generator](https://kbplate.ai03.me/): An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later
-- [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts.
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) - This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key.
+- [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html) - Render 3D keyboard from KLE json.
+- [Keycap Renders](https://keycaprenders.com/) - Render 3D keycap set.
+- [Plate & Case Builder](http://builder.swillkb.com/) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
+- [ai03 Plate Generator](https://kbplate.ai03.me/) - An advanced plate generator which doesn't result in 13.99999mm cutouts. Also fillets the cutouts so you don't have to waste hours later.
 - [Keyboard Layouter Plugin](https://github.com/yskoht/keyboard-layouter) - Keyboard Layouter is a plugin for KiCad(pcbnew). This plugin places switch footprints in the location specified by JSON of Keyboard Layout Editor.
 - [mrkeebs Pcb Generator](http://kbpcb.mrkeebs.com/) - Quickly create PCB from KLE json.
-- [Kalerator](https://kalerator.clueboard.co/) - pcb generator for keyboard-layout-editor generated layouts.
-- [Keyboard Firmware Builder](https://kbfirmware.com/) - online QMK Firmware Builder. (2+ years behind QMK firmware master).
-- [QMK Configurator](https://config.qmk.fm/)  - an open source configurator for QMK Firmware.
-- [TMK Firmware Builder](http://kb.sized.io/)  - online TMK Firmware Builder.
-- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2)  - is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
-- [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)  - KiCad Library of custom MX-Alps footprints
-- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCAD footprint library for kailh choc and MX-style mechanical switches
-- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCAD footprints for mechanical keyboard parts
-- [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design
-- [KiCAD Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCAD symbols and footprints for mechanical keyboard design, can be added as a plugin
+- [Kalerator](https://kalerator.clueboard.co/) - PCB generator for keyboard-layout-editor generated layouts.
+- [Keyboard Firmware Builder](https://kbfirmware.com/) - Online QMK Firmware Builder. (2+ years behind QMK firmware master).
+- [QMK Configurator](https://config.qmk.fm/)  - An open source configurator for QMK Firmware.
+- [TMK Firmware Builder](http://kb.sized.io/)  - Online TMK Firmware Builder.
+- [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2)  - Keycap and keyset construction library for mechanical keyboards, written in openSCAD.
+- [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)  - KiCad Library of custom MX-Alps footprints.
+- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCad footprint library for kailh choc and MX-style mechanical switches.
+- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCad footprints for mechanical keyboard parts.
+- [KiCad Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design.
+- [KiCad Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCad symbols and footprints for mechanical keyboard design, can be added as a plugin.
+- [KiCad Parts by Acheron](https://github.com/AcheronProject/AlexandriaLibrary) - KiCad symbols and footprints for mechanical keyboard design.
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
-- [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
+- [ESP32 KiCad Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
 
 ## Tutorials
 
@@ -389,10 +389,10 @@ Others:
 -   [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 -   [Hand wiring a let's split](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)  (pro micro)
 -   [How to integrate a trackpoint in a mechanical keyboard (TMK, Teensy)](https://github.com/alonswartz/trackpoint)
--   [lets-split-guide](https://github.com/nicinabox/lets-split-guide)  - This guide covers building a Let's Split v2.
--   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1)  - One key keyboard using Attiny85.
--   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937)  - Four key keyboard using Attiny85.
--   [zmk design guide by eblaster](https://github.com/ebastler/zmk-designguide) - while it targets zmk keyboards the lessons apply wider than zmk
+-   [lets-split-guide](https://github.com/nicinabox/lets-split-guide) - This guide covers building a Let's Split v2.
+-   [the 1-Key-Keyboard project](http://blog.flipwork.nl/?x=entry:entry081009-142605;comments:1) - One key keyboard using Attiny85.
+-   [4-key-keyboard](http://blog.flipwork.nl/?x=entry:entry100224-003937) - Four key keyboard using Attiny85.
+-   [zmk design guide by eblaster](https://github.com/ebastler/zmk-designguide) - While it targets zmk keyboards the lessons apply wider than zmk
 ---
 
 ### Contributing
