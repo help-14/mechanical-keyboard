@@ -1,3 +1,7 @@
+# Website builder 3.0
+
+Website builder for mechkey.org
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
