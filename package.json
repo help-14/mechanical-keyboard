@@ -1,13 +1,9 @@
 {
-  "name": "solid-ssr-workbench",
-  "description": "Patches node to work with Solid's SSR",
-  "version": "1.0.0",
-  "author": "Ryan Carniato",
+  "name": "mechkey_org",
+  "description": "Static site builder for mechkey.org",
+  "version": "3.0.0",
+  "author": "Help-14",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ryansolid/solid/solid-ssr"
-  },
   "scripts": {
     "build": "rollup -c rollup.config.js && node export.js",
     "start": "serve dist -l 8080"
