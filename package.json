@@ -5,7 +5,7 @@
   "author": "Help-14",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c rollup.config.js && node export.js",
+    "build": "rollup -c rollup.config.js && node export.js && rm -rf temp",
     "start": "serve dist -l 8080"
   },
   "dependencies": {

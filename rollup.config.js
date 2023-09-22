@@ -48,7 +48,7 @@ export default [
     input: "index.js",
     output: [
       {
-        dir: "lib",
+        dir: "temp",
         exports: "auto",
         format: "cjs"
       }

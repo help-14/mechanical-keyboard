@@ -2,7 +2,7 @@ const path = require("path");
 const renderStatic = require("solid-ssr/static");
 
 const PAGES = ["index", "profile", "settings"];
-const pathToServer = path.resolve(__dirname, "lib/index.js");
+const pathToServer = path.resolve(__dirname, "temp/index.js");
 const pathToPublic = path.resolve(__dirname, "dist");
 
 renderStatic(
