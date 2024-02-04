@@ -89,6 +89,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/RyPnxkp.png"> | [TS65](https://geekhack.org/index.php?topic=79161.0) | [THIS HAVE NOT BEEN TESTED YET]<br />The Split 65% Keyboard. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/rIdJYQh.png"> | [BLU60](https://geekhack.org/index.php?topic=97225.0) | [THIS HAVE NOT BEEN TESTED YET]<br /> Bluetooth 60% keyboard. <br /> [![License: No License](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://choosealicense.com/no-permission/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/k00Uz6w.jpg"> | [Shoc](https://github.com/JannikB5825/Shoc) | [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/i5ASuw5.jpeg"> | [Nyan Keys 60](https://github.com/russeree/nyan-keys-hardware) | FPGA based with a per key input core - 60% - USB 2.0 HighSpeed - 8000hz Polling HID - ~260µS latency end to end - NKRO - NyanOS - Board Files [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) - Fimware & Schematics [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 
 ## Ergonomics Keyboards
 
