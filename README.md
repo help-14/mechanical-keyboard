@@ -158,7 +158,8 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/TYW2Rml.jpg"> | [KLOR](https://github.com/GEIGEIGEIST/KLOR) | 36-42 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/weoyKQH.jpg"> | [KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) | 34 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/qO7XoMt.jpg"> | [TOTEM](https://github.com/GEIGEIGEIST/TOTEM) | 38 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
-
+| <img loading="lazy" minwidth="500" src="https://raw.githubusercontent.com/ozkan/Cockpit-Keyboard/master/images/CockpitKeyboard-1.webp"> | [COCKPIT KEYBOARD](https://github.com/ozkan/Cockpit-Keyboard) | A hot swap system column staggered mechanical keyboard, running QMK Firmware on Pro Micro controllers. <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| <img loading="lazy" minwidth="500" src="https://raw.githubusercontent.com/ozkan/skywatch/main/Images/skywatch.webp"> | [SKYWATCH](https://github.com/ozkan/skywatch) | 35% ergonomic ortholinear keyboard, powered by RP2040, along with OLED and hotswap sockets support  <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Ortholinear Keyboards
 
@@ -217,6 +218,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Lw8hiLR.png"> | [Froggr](https://github.com/weteor/Froggr) | 48 key orthogonal keyboard with offset bottom row <br /> [![License](https://img.shields.io/badge/License-CERN%20OHL%202.0-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v2.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/WYhQTIr.jpg"> | [Klacker_BS](https://github.com/weteor/Klacker_BS) | a 3x5+2 split keyboard hidden in a row staggered unibody design w/ numpad <br /> [![License](https://img.shields.io/badge/License-CERN%20OHL%202.0-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v2.0) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/k9irhRE.jpg"> | [3W6](https://github.com/weteor/3W6) | a small compact 3x5+3 split ortho keyboard <br /> [![License](https://img.shields.io/badge/License-CERN%20OHL%202.0-green.svg)](https://ohwr.org/project/licences/wikis/cern-ohl-v2.0) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/ukkL0xo.png"> | [YAKAMOZ](https://github.com/ozkan/Yakamoz) | Yakamoz is a 50-key ortholinear keyboard, powered by a Raspberry Pi Pico. It consists of 1U keys with an OLED display, buzzer, trackball (optional) and RGB leds. It also supports hotswap, which means you can easily change Change with Cherry MX compatible switches   <br /> [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 ## Numpad/Macropad
 
