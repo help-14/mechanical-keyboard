@@ -146,6 +146,7 @@ Links:
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/FOpHIbt.png"> | [Lil Chonky Bois](https://github.com/sanderboer/chonkybois) | MX hotswap, wireless version. <br /> [![License: Creative Commons Zero](https://img.shields.io/badge/License-CC%20Zero-lightgrey.svg)](https://github.com/sanderboer/chonkybois/blob/main/LICENSE) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/wQxLrBZ.png"> | [elephant42](https://github.com/illness072/elephant42) | [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/Xt1FBFW.png"> | [pteron](https://github.com/FSund/pteron-keyboard) | An ergonomic keyboard heavily inspired by the [Atreus](https://github.com/technomancy/atreus), [Iris](https://github.com/keebio/iris-case) and [Atreis](https://github.com/dekonnection/atreis) keyboards. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
+| <img loading="lazy" minwidth="500" src="https://i.imgur.com/GO6aX1A.jpeg"> | [Charybdis](https://github.com/Bastardkb/Charybdis) | An ergonomic keyboard with integrated trackball. <br /> [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/iZjgrMD.jpg"> | [KLOR](https://github.com/GEIGEIGEIST/KLOR) | 36-42 keys column-staggered split keyboard <br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
 | <img loading="lazy" minwidth="500" src="https://github.com/strayer/taira-keyboard/raw/main/docs/taira-1.0.jpg"> | [Taira](https://github.com/strayer/taira-keyboard) | A wireless low-profile split mechanical keyboard with 66 keys inspired by the ErgoDash and Corne Chocolate <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | <img loading="lazy" minwidth="500" src="https://i.imgur.com/ZYnfRRh.png"> | [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) | ergonomic, minimal, orthogonal, and universal keyboard layout<br /> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) |
@@ -388,6 +389,7 @@ Others:
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
 - [ESP32 KiCad Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
+- [Kicad kbplacer](https://github.com/adamws/kicad-kbplacer?tab=readme-ov-file) - KiCad plugin for automatic keyboard's key placement and routing
 
 ## Tutorials
 
