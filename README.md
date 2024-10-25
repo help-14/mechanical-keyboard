@@ -342,6 +342,7 @@ Atmega family:
 -  [QMK-VIA-Hex](https://github.com/Xelus22/QMK-VIA-Hex) - Precompile via firmware for qmk supported keyboard.
 
 Raspberry Pi Pico:
+-  [RMK](https://github.com/haobogu/rmk) - A feature-rich Rust keyboard library with wireless and split support, aims to make keyboard customization easy and accessible.
 -  [KMK](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python.
 -  [PicoMK](https://github.com/zli117/PicoMK) - Configurable firmware for RP2040 powered mechanical keyboard.
 -  [Prk firmware](https://github.com/picoruby/prk_firmware) - A keyboard firmware platform in PicoRuby.
