@@ -375,6 +375,7 @@ Others:
 ## Tools
 
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) - This is a web application that enables the editing of keyboard-layouts, i.e., the position and appearance of each physical key.
+- [Keyboard Layout Editor NG](https://editor.keyboard-tools.xyz/) - Modernized implementation of keyboard-layout-editor with integrated plate builder and KiCad project generator.
 - [Keyboard Layout 3D Viewer](https://eswai.github.io/KL3V/kl3v.html) - Render 3D keyboard from KLE json.
 - [Keycap Renders](https://keycaprenders.com/) - Render 3D keycap set.
 - [Plate & Case Builder](http://builder.swillkb.com/) - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
