@@ -386,6 +386,7 @@ Others:
 - [Kalerator](https://kalerator.clueboard.co/) - PCB generator for keyboard-layout-editor generated layouts.
 - [Keyboard Firmware Builder](https://kbfirmware.com/) - Online QMK Firmware Builder. (2+ years behind QMK firmware master).
 - [QMK Configurator](https://config.qmk.fm/)  - An open source configurator for QMK Firmware.
+- [TypingPractice.ai Keyboard Tester](https://typingpractice.ai/keyboard-test) - Browser keyboard tester for ANSI, ISO, JIS and ABNT2 layouts (full size, compact, Mac) that flags switch chatter and counts how many keys register at once.
 - [TMK Firmware Builder](http://kb.sized.io/)  - Online TMK Firmware Builder.
 - [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2)  - Keycap and keyset construction library for mechanical keyboards, written in openSCAD.
 - [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)  - KiCad Library of custom MX-Alps footprints.
